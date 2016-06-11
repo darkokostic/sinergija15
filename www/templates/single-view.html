@@ -1,0 +1,21 @@
+<ion-view>
+	<ion-content ng-init="getObject()" class="scroll-content ionic-scroll singleView">
+		<h4>{{lecture.Title}}</h4>
+		<div class="lectureTitleAndDesc">
+			<p>{{lecture.Description}}</p>
+		</div>
+		<div class="singleViewTop">
+			<a href="#/lecturer-single-view/{{speaker.Id}}"><img ng-src="{{speakerPicture}}"></a>
+			<div class="lectureInfo">
+				<h5>- {{speaker.FirstName}} {{speaker.LastName}}</h5>
+				<p>- {{room}}, {{lecture.Level}}</p>
+				<p class="lang">- {{lecture.Lang}},</p>
+				<p class="track"> {{lecture.Track}}</p>
+			</div>
+		</div>
+		<div class="addToFavorites">
+			<a ng-click="addRemoveFavorite()" class="button button-clear button-icon icon ion-star favoriteButton" ng-class="isFavorite ? 'button-positive' : 'button-dark'"></a>
+			<p>{{isFavoriteText}}</p>
+		</div>
+	</ion-content>
+</ion-view>

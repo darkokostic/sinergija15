@@ -1,0 +1,13 @@
+<ion-view>
+	 <ion-content  ng-init="getObject()" class="scroll-content ionic-scroll">
+        <h1 class="{{hasFavorites}}" style="margin-top: 100px;">Ovo mesto je pusto! Dodajte favorite. </h1>
+        <ion-list class="itemList">
+           <ion-item ng-repeat="lecture in lectures" class="item-avatar-right item-text-wrap" href="#/single-view/{{lecture.Id}}/{{lecture.time}}"> 
+               <img ng-src="{{lecture.pictureUrl}}" />
+               <p>{{lecture.time}}</p>
+               <h1>{{lecture.Title}}</h1>
+           </ion-item>
+       </ion-list>
+        </ion-list>
+    </ion-content>
+</ion-view>

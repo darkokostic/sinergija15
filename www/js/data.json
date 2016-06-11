@@ -1,0 +1,1716 @@
+{
+   "Version":210,
+   "Days":[
+      {
+         "Id":1,
+         "Date":"\/Date(1445421600000)\/"
+      },
+      {
+         "Id":2,
+         "Date":"\/Date(1445508000000)\/"
+      }
+   ],
+   "Rooms":[
+      {
+         "Id":1,
+         "Code":"Atlantic 1"
+      },
+      {
+         "Id":2,
+         "Code":"Atlantic 2"
+      },
+      {
+         "Id":3,
+         "Code":"Atlantic 3"
+      },
+      {
+         "Id":4,
+         "Code":"Mediterranean"
+      },
+      {
+         "Id":5,
+         "Code":"Adriatic"
+      },
+      {
+         "Id":6,
+         "Code":"Baltic"
+      },
+      {
+         "Id":7,
+         "Code":"Aegean"
+      }
+   ],
+   "Speakers":[
+      {
+         "Id":44,
+         "FirstName":"Zoran",
+         "LastName":"Cvetković",
+         "Bio":"Zoran Cvetković radi kao O365 arhitekta u Kanadskom ogranku Microsoft Services. Uža specijalnost su mu komunikacije i elektronska pošta  (Unified Communications) . \r\nKarijeru u računarskoj industriji zapoceo je  1989 godine za vreme studija na Elektrotehnickom  Fakultetu Univerziteta u Sarajevu. Nastavlja je u Beogradu 1992 godine gde radi kao konsultant u Jugodati Beograd. U to doba je bio i saradnik na BBS-u Sezam.  Od 1995 godine živi i radi u Kanadi. \r\n\r\nU Microsoftu  jedan je od lidera za UC i certifikovani Lync Master. Poslednji projekti su vezani za Office 365 u finansijskoj industriji i Lync 2013, saznanja koja ce vam prezentovati na ovogodisnjoj Sinergiji. \r\n\r\nZoran Cvetkovic works as a O365 Architect for Microsoft Services. He is a Community Lead and Subject Metter Expert for Unified Communications at Microsoft. His IT carer started in 1989 during studies at Faculty for Electrical Engineering at University of Sarajevo. IT-Pro career continued in 1992 at Jugodata Belgrade as IT consultant and as the advisor at Sezam BBS. In 1995 he moved to Canada.\r\nZoran is one of the Lync Certified Masters. His Last projects are related to deploying O365 in Banking Industry and  Lync 2013, products that  he will be presenting at Sinergija. \r\n\r\n",
+         "PictureUrl":"Zoran_Cvetkovic_zoranc.jpg",
+         "Company":"Microsoft"
+      },
+      {
+         "Id":50,
+         "FirstName":"Aleksandar",
+         "LastName":"Totović",
+         "Bio":"Aleksandar Totović je MVP za Microsoft Dynamics NAV. Trenutno je zaposlen kao ERP Consulting Director u kompaniji NPS Beograd. Aleksandar je dugogodišnji ERP Consultant i Project Manager. Trenutno vodi tim iskusnih ERP Consultanata i Project Manager-a i radi na popularizaciji NAV-a i Microsoft Azurea. Više od 10 godina je u NAV-u, a više od 30 godina u IT-u (od detinjstva). Predavač je na mnogim konferencijama u zemlji i inostranstvu (NAV TechDays, Directions EMEA, Directions US, Sinergija, MS Network, In Touch, SPC Adriatics, Tarabica,...). Pored toga što je MVP, takođe je i Moderator globalnog NAV Community foruma, urednik NAV In/On/With stranice na Microsoft Partner Source, član Dynamics Pro komiteta za izradu NAV ispita... Aleksandar je jedan od autora zvaničnih kurseva za NAV 2015 i NAV 2016, kao i ‘How Do I… in NAV’ video materijala.\r\nNa Convergence EMEA 2014 je nagrađen kao Customer Excellence Community Champion Award.\r\n\r\nBlog: totovic.com",
+         "PictureUrl":"Aleksandar_Totovic_IMAG0289.jpg",
+         "Company":"NPS"
+      },
+      {
+         "Id":39,
+         "FirstName":"Saša",
+         "LastName":"Jurić",
+         "Bio":"Saša Jurić, rođeni Subotičanin, radi u Mikrosoftu još od kraja prošlog veka. Prvih 12 godina je proveo u SQL Server, Analysis Services timu na alatima za poslovnu inteligenciju kao GUI programer i tester, a poslednjih par godina koristi te iste alate u Mikrosoftovom računskom centru.  U poslednjih godinu dana je uspeo da pripremi više stotina poslovnih izveštaja i usreći mnoge korisnike, prikazujući POWER BI kao najbolji alat za poslovnu informatiku.\r\nZa sada ima prijavljena četiri softverska patenta. Osam puta je bio predavač na Sinergiji i uživa da prenese najnovija znanja i tehnologije svojim slušaocima. Ako ga uhvatite negde tokom Sinergije, slobodno ga pitajte o najnovijim Power BI dešavanjima, poslovnoj inteligenciji, Microsoftu, Americi, fotografiji ili bilo čemu drugom što vas zanima.\r\n   ~~~   \r\nSasha Juric, a Microsoftie since the end of the last century, worked for a dozen years in the SQL Server, Analysis Services team on business intelligence tools as a GUI developer and tester, and spent last few years as a content creator using those tools, and prepared several hundred Power BI reports just in last year alone.  Currently, he works as a Senior Business Analytics &amp;amp; Insights Manager for the Office of CIO in the Microsoft IT, using the (b)leading edge Power BI tools, advising, helping and working with many internal customers on converting their data into the information that is accurate, intuitive and looking cool.\r\nAs one of the more experienced Sinergija presenters, he loves to talk about the latest and greatest in the world of business intelligence, and if you manage to catch him in between sessions, feel free to ask him anything you want.  BI, Microsoft, USA, photography, or any other topic you can think of, as long as you are ready to answer some of his questions about you and your experiences with Power BI.\r\n",
+         "PictureUrl":"Saša_Juric_Sasha%20Juric%20(150x150).jpg",
+         "Company":"Microsoft"
+      },
+      {
+         "Id":34,
+         "FirstName":"Damir",
+         "LastName":"Dizdarević",
+         "Bio":"Damir Dizdarević po struci je diplomirani matematičar-informatičar, i radi kao izvršni direktor za usluge u kompaniji Logosoft d.o.o.,te kao predavač i autor MOC kurseva. Pored toga, povremeno radi i kao sistem dizajner za kompleksnija enterprise okruženja. Osnivač je i voditelj bosansko-hercegovačkog Microsoft Community-a. Sa Microsoft server platformama radi već zadnjih 19 godina, a posebno se specijalizirao se za Windows Server, Exchange Server, Security, mobilna i virtualizacijska rešenja. Za doprinose u prenošenju znanja o Microsoft server proizvodima, rad u community-u te veliki broj održanih predavanja, Microsoft mu je prije 8 godina dodijelio status Most Valuable Professional – MVP, a nosilac je i velikog broja tehničkih certifikata (MCSE,MCTS,MCITP,MCT) za Office365, System Center 2012, Windows Server, Exchange Server te Hyper-V. Redovno predaje na mnogim Microsoftovim i drugim IT konferencijama u regiji. Redovno predaje i biva odlično ocijenjen na konferencijama u regionu kao što su MS Network, Microsoft Vizija, NT Konferenca, Windays itd. Na konferenciji Microsoft Sinergija u sedam prethodnih godina za redom bio je jedan od tri najbolja predavača po ocjenama publike. Jedan je od rijetkih predavača iz Evrope koji radi kao autor i recenzent oficijelnih MOC kurseva. U ovoj godini intenzivno je angažovan na izradi serije oficijelnih kurseva za Windows 10, novi Windows Server i Exchange. Pored toga, jedan je od rijetkih autora iz šireg regiona koji objavljuje i stručne tekstove u prestižnom Windows ITPro Magazinu (neki od tekstova su dostupni na : http://windowsitpro.com/author/damir-dizdarevic). Njegov blog o Microsoft Server proizvodima i Microsoft Learning programu dostupan je na http://dizdarevic.ba/ddamirblog.",
+         "PictureUrl":"Damir_Dizdarevic_DDizdarevic.jpg",
+         "Company":"Logosoft d.o.o."
+      },
+      {
+         "Id":7,
+         "FirstName":"Vlatko",
+         "LastName":"Ivanovski",
+         "Bio":"Microsoft MVP (Visual Studio ALM). Over 14 years of IT experience in Development Area and strong technical background have provided a strong business foundation in Managing ICTs. I am highly experienced IT Systems professional with proven management and technical skills and demonstrated the ability to build/lead/mentor teams of other IT technical personnel in different IT functions. Proven business analysis and business intelligence skills as well as the ability to see both the big picture and detailed view have constantly been a valuable asset in all situations.\r\n\r\nLarge experience in planning, design and implementation of software solutions in the areas of e-Commerce, e-Business, e-Banking and e-Government, based on Microsoft technologies / systems. Continuously explore and implement practices to successfully manage the overall process of developing software solutions using the latest technologies and systems.",
+         "PictureUrl":"Vlatko_Ivanovski_vlatko_ba.jpg",
+         "Company":"Nextsense ltd."
+      },
+      {
+         "Id":18,
+         "FirstName":"Nenad",
+         "LastName":"Trajkovski",
+         "Bio":"Nenad Trajkovski was born in Zagreb. His major responsibility is Project Management. He is Project manager in PERPETUUM MOBILE d.o.o., Zagreb. He is regular speaker at Microsoft WINDAYS, MS VIZIJA and MS SINERGIJA conferences. In last 5 years he is in the top 5 speakers. He is trainer in Project Management and MS Project in various countries. He is PMP (Project Management Professional). He is professional trainer for PMP (Project Management Professional) and RMP (Risk Management Professional), and MS PROJECT. Hi is MVP for MS PROJECT.",
+         "PictureUrl":"Nenad_Trajkovski_IMG_1165.jpg",
+         "Company":"Perpetuum Mobile d.o.o."
+      },
+      {
+         "Id":54,
+         "FirstName":"Milos",
+         "LastName":"Radivojevic",
+         "Bio":"Miloš Radivojević is a database developer and consultant, speaker, and trainer located in Vienna, Austria. He has been working with SQL Server over 12 years. He is Microsoft SQL Server MVP and MCT and specializes in SQL Server for application developers and performance and query tuning. Currently he works as principal database consultant in bwin.party  (the largest regulated online gaming company in the world) where he works with some of the largest SQL Server databases. He is co-leader of the SQL Server PASS Austria.\r\n\r\nHe is a speaker in international conferences (SQLBits, SQL Saturday, SQLU Summit) and speaks regularly at SQL Server PASS Austria meetings.\r\n\r\nHe has developed two courses: SQL Server For Application Developers and (for SolidQ) SQL Server 2012 for Experienced Developers and DBAs (Co-author with Herbert Albert and Gianluca Hotz).\r\n\r\nHis Twitter handle is @MilosSQL.",
+         "PictureUrl":"Milos_Radivojevic_milos_pic.jpg",
+         "Company":"Bwin.Party"
+      },
+      {
+         "Id":134,
+         "FirstName":"Srđan",
+         "LastName":"Milovanov",
+         "Bio":"Srdjan Milovanov je diplomirao na Elektrotehničkom fakultetu u Beogradu. Trenutno je zaposlen u kompaniji Inssio kao Team Lead. \r\n.Net i C# radi preko 8 godina i web tehnologije preko 7 godina. Bio je i Tech Lead u kompaniji Selerant. \r\nNajviše ga interesuju moderne web tehnologije, kombinacija najpopularnijeg SPA framework-a AngularJs i ASP.NET Web Api.\r\nPoslednjih godinu dana je radio na projektima koji su uključivali AngularJs i Typescript.",
+         "PictureUrl":"Srdjan_Milovanov_Milovanov.jpg",
+         "Company":"Inssio"
+      },
+      {
+         "Id":135,
+         "FirstName":"Krunoslav",
+         "LastName":"Mihalić",
+         "Bio":"Senior PFE, ...",
+         "PictureUrl":null,
+         "Company":"Microsoft"
+      },
+      {
+         "Id":139,
+         "FirstName":"Dražen",
+         "LastName":"Šumić",
+         "Bio":"Dražen leads a team of Program Managers in Microsoft Database Systems based in Microsoft Development Center in Serbia. The team contributes to key Microsoft products and services such as SQL Server and Azure SQL Database. Over the last five years, Dražen worked on functionally defining various enhancements in SQL Server data warehousing and HDInsight.\r\nBefore joining Microsoft, Dražen has worked on researching algorithms, and developing  applications in the area of computer-aided engineering.",
+         "PictureUrl":"Dražen_Šumić_Drazen_Sumic_Sinergija2015.jpg",
+         "Company":"Microsoft"
+      },
+      {
+         "Id":140,
+         "FirstName":"Dušan",
+         "LastName":"Đokić",
+         "Bio":null,
+         "PictureUrl":null,
+         "Company":"Extreme d.o.o"
+      },
+      {
+         "Id":130,
+         "FirstName":"Nebojša",
+         "LastName":"Ilić",
+         "Bio":"Inženjer organizacije za informacione sisteme. U svetu baza podataka više od 20 godina. Radio na različitim platformama. Prve radove implementirane na MS SQL serveru objavio na Info festu sredinom devedesetih. Radio u više kompanija u Srbiji i inostranstvu. 2004. bio DB administrator na Olimpijskim igrama u Atini. Poslednjih 10 godina zaposlen u NBS. ",
+         "PictureUrl":null,
+         "Company":"Narodna banka Srbije"
+      },
+      {
+         "Id":38,
+         "FirstName":"Dragoslav",
+         "LastName":"Ogar",
+         "Bio":"Dragoslav Ogar je direktor/konsultant/predavač preduzeća A4ATCP d.o.o. Beograd, koje je zvanični Microsoftov partner. Ima više od 25 godina praktičnog i teoretskog iskustva u informacionim tehnologijama. Po zvanju je profesor matematike.\r\nKao Microsoftov trener, održao je više od 70 MOC-ova i preko 15.000 časova. Danas, najčešće pravi sopstveni materijal (vežbe i primere) za konsultacije i radionice.\r\nDragoslav je najčešće nagrađeni predavač na Microsoftovim konferencijama u Srbiji. Na pet međunarodne Microsoftove konferencije (Sinergija 04, 06, 10, 11 i 13), nagrađen je kao jedan od tri najbolja predavača.\r\nOsim tema iz SQL Server oblasti, omiljene teme su mu i Entity Framework, OData, MVC i SOLID.\r\n",
+         "PictureUrl":"Dragoslav_Ogar.png",
+         "Company":"A4ATCP d.o.o."
+      },
+      {
+         "Id":77,
+         "FirstName":"Stanko",
+         "LastName":"Nikolić",
+         "Bio":"Stanko Nikolić dipl. inženjer elektrotehnike, Microsoft MCP. Zaposlen je u Računskom centru Elektrotehničkog fakulteta Univerziteta u Beogradu. Profesionalno se bavi implementacijom savremenih softverskih rešenja i istraživanjem novih tehnologija. Najviše se bavi Microsoft tehnologijama i redovan je predavač na Microsoft konferencijama i skupovima. Radi kao projektant na nekoliko najvećih Windows Phone projekata u Srbiji.",
+         "PictureUrl":"Stanko_Nikolić_8.jpg",
+         "Company":"Elektrotehnički fakultet Beograd"
+      },
+      {
+         "Id":137,
+         "FirstName":"Vladimir",
+         "LastName":"Ivanović",
+         "Bio":"Vladimir Ivanović radi kao program menadžer u Microsoft SQL Server timu u razvojnom centru u Beogradu. Trenutno je učestvuje u razvoju novih funkcionalnosti za Azure SQL Database.",
+         "PictureUrl":"Vladimir_Ivanovic_Vladimir%20Ivanovic%20Outlook.jpg",
+         "Company":"Microsoft"
+      },
+      {
+         "Id":144,
+         "FirstName":"Uroš",
+         "LastName":"Kastelić",
+         "Bio":null,
+         "PictureUrl":null,
+         "Company":" "
+      },
+      {
+         "Id":82,
+         "FirstName":"Vladimir",
+         "LastName":"Marković",
+         "Bio":"Vladimir Marković je rođen u Zemunu. Završio je matematičku gimnaziju u Zenici, Bosna i Hercegovina. Osnovne studije je završio na Matematičom fakultetu u Beogradu, smer računarstvo i informatika. Master studije je završio na Matematičkom fakultetu u Beogradu. Master teza: „Primena metoda istraživanja podataka u razvoju modela zasnovanih na rejtingu-sklonost ka kupovini“.\r\n\r\nRadio je kao profesor matematike i informatike u Zemunskoj gimnaziji. Od februara 2003. godine zaposlen je u Banci Intesa Beograd. Trenutno je na poziciji tim lidera poslovne inteligencije. \r\n\r\nDWH/BI se bavi od 2006. godine, a istraživanjem podataka od 2009. godine. U svom dosadašnjem radu koristio je različite BI platforme MS SQL Server, Cognos, SAS Enterprise BI. \r\n\r\nKao glavni inžinjer je učestvovao u realizacije mnogo BI projekata: SAS Enterprise BI (aCI – analitički CRM, CS – credit scoring, CRMB – credit risk monitoring for banking),  implemetaciji Basel II standarda, MIS (Management Information System), PMS (Plan Monitoring System – KPI’s za organizacione delove i zaposlene), uvođenje operativnog CRM, Risk DWH (AIRB - Advanced Internal Rating - Based), Hadoop 3S,...\r\n\r\nKao kompanijski trener održao je preko 30 kurseva i predavanja - najviše u cilju unapređenja BI kulture unutar organizacije. Bio je predavač na Sinergiji 2006, 2014, Tarabici 2014, 2015 i MS SQL user grupi. \r\n\r\nOblasti interesovanju su mu: dimenziono modelovanje, istraživanje podataka i mašinsko učenje. U slobodno vreme igra šah.\r\n",
+         "PictureUrl":null,
+         "Company":"Banca Intesa Beograd"
+      },
+      {
+         "Id":80,
+         "FirstName":"Darko",
+         "LastName":"Marjanović",
+         "Bio":"Darko Marjanović je direktor i koosnivač kompanije Things Solver koja se bavi Big Data tehnologijama. Osnivač je i bloga Hadoop Srbija gde piše o Hadoop-u i ostalim alatima iz njegovog ekosistema. Uglavnom se bavi arhitekturom Big Data aplikacija, prikupljanjem i pripremom podataka. Primarni fokus su mu Hadoop i Spark.\r\n",
+         "PictureUrl":"Darko_Marjanović_Darko150x150.png",
+         "Company":"Things Solver"
+      },
+      {
+         "Id":93,
+         "FirstName":"Miloš",
+         "LastName":"Milovanović",
+         "Bio":"Miloš Milovanović je Co Founder i Data Engineer u kompaniji Things Solver. Bavi se implementacijom i razvojem Big Data rešenja zasnovanih na Hadoop ekosistemu. U svakodnevnom radu koristi alate Hive, Pig, Spark iz Hadoop ekosistema i Python za prečišćavanje i obradu podataka.",
+         "PictureUrl":"Miloš_Milovanović_32b52eb.jpg",
+         "Company":"Things Solver"
+      },
+      {
+         "Id":57,
+         "FirstName":"Vladimir",
+         "LastName":"Mutić",
+         "Bio":"Od početka zaluđen za sve što ima veze sa virtualizacijom. Bez obzira na platformu i boju. Sa Zekom(tm) i još par dobrih ljudi podigao Sinergiju 2011 u Cloud. Zaposlen u kompaniji E-Smart Systems kao rukovodilac Infrastrukturnih Servisa.\r\n\r\nVirtualization geek from day one. Regardless of platform and color. With Zeka(tm) and few other good guys moved Sinergija 2011 in to the Cloud. Employed at E-Smart Systems as a Program Manager for Infrastructure Services.",
+         "PictureUrl":"Vladimir_Mutic_Profil22.jpg",
+         "Company":"E-Smart Systems"
+      },
+      {
+         "Id":92,
+         "FirstName":"Nemanja",
+         "LastName":"Stančić",
+         "Bio":"Currently working as CEO of New And Rising App Studio. I am focused on bringing real life experience to mobile startup businesses. I am Microsoft MVP for Windows Platform Development.",
+         "PictureUrl":"Nemanja_Stancic_10314522_10205132428962642_5147650377620768881_n.jpg",
+         "Company":"New and Rising"
+      },
+      {
+         "Id":2,
+         "FirstName":"Ljubomir",
+         "LastName":"Ivaniš",
+         "Bio":"\u003cspan\u003eLjubomir Ivaniš\r\nCPU\r\n\r\nRođen u Beogradu, računarima se bavi od devedesetih. Prošao je sve \r\nuobičajene korake u razvoju i širenju svog znanja IT tehnologija. \r\nZaposlen je u firmi CPU d.o.o. gde radi kao predavač. Radi na razvoju IT\r\n community-ja u Srbiji. Jedan je od autora MOD (Master of Deployment) \r\nakademije. Odigrao je ključnu ulogu u dizajnu bezbednosnog rešenja \r\nprojekta .rs domena. Specijalnosti su mu virtualizacija, bezbednost i \r\nštošta drugo. Učesnik je svih većih IT skupova.\r\n\u003c/span\u003e",
+         "PictureUrl":"Ljubomir_Ivanis_slika%20Ljuba.jpg",
+         "Company":"CPU"
+      },
+      {
+         "Id":124,
+         "FirstName":"Katarina",
+         "LastName":"Tomić",
+         "Bio":"Katarina Tomić je konzultantica tvrke InfoCumulus čiji je primarni interes implementacija i adopcija poslovnih društvenih mreža. U svom dosadašnjem iskustvu na tom području zaslužna je za nekoliko uspješnih Yammer projekata u Hrvatskoj i regiji. Projekti u kojima se najviše bazira njen rad su tržišno orijentirani konzultantski projekti  u upravljanju odnosa s korisnicima te cloud portfelja usluga. U InfoCumulusu Katarina je obnašala različite funkcije kao što su marketing, računovodstvo, odnosi s korisnicima i partnerima. Za vrijeme fakultetskog obrazovanja osim diplome stručne specijaliste poduzetničkog menadžmenta  Katarina je stekla i iskustvo rada s korisnicima tijekom rada u drugačijoj poslovnoj okolini u SAD-u što joj je kasnije pomoglo u savladavanju izazova u komunikaciji s korisnicima. \r\n",
+         "PictureUrl":"Katarina_Tomić_2013-05-16%2011.19.38-1.jpg",
+         "Company":"InfoCumulus"
+      },
+      {
+         "Id":64,
+         "FirstName":"Dragan",
+         "LastName":"Panjkov",
+         "Bio":"Dragan Panjkov se profesionalno bavi informacionim tehnologijama od 2001. godine. Do 2007. godine bavio se hardverom i razvojem za web, a od 2007. godine se intenzivno bavi SharePoint i ASP.NET razvojem. Trenutno se najviše fokusira na Office 365 i SharePoint 2013 Enterprise i Web Content Management, te SharePoint Apps. Posjeduje MCSD sertifikate za razvoj SharePoint rješenja i za razvoj web aplikacija. Zaposlen je u firmi K2 NE kao SharePoint i K2 konsultant. Aktivan je član Microsoft Communitya u Bosni i Hercegovini, predavač na sastancima User Grupa, te jedan od osnivača SharePoint i New Office User Grupe u Bosni i Hercegovini. Autor je jedne od prvih WP7 aplikacija u BiH, BAM Converter. Od 2009. je redovan predavač na konferencijama u zemljama regiona: Microsoft Network (BiH), Microsoft WinDays (Hrvatska), Microsoft Sinergija (Srbija), DevDays/TechNet Day (BiH), MSDays (Bugarska), SharePoint and Project Conference Adriatics, a 2014 je bio i predavač na konferenciji Microsoft TechEd Europe 2014. Dragan je MVP za Office365 od aprila 2014. Pise blog na www.dragan-panjkov.com. ",
+         "PictureUrl":"Dragan_Panjkov_Dragan_Panjkov_150.jpg",
+         "Company":"K2 NE GmbH"
+      },
+      {
+         "Id":62,
+         "FirstName":"Catalin",
+         "LastName":"Gheorghiu",
+         "Bio":"Catalin Gheorghiu je solution architect iz Rumunije. Trenutno je zainteresiran za razvoj za mobilne platforme i za cloud platforme. Pored bavljenja razvojem i arhitekturom, je i trener i konzultant . U slobodno vremenu član je tehničkih zajednica, doprinosi svojim tekstovima i blogovima na nekoliko korisničkih grupa (MrSmersh), drži predavanja svuda po Rumuniji i lider je RONUA korisničke grupe u Temišvaru. Jeste trenutni nosilac Microsoft MVP i Nokia Developer Championa nagrade.",
+         "PictureUrl":"Catalin_Gheorghiu_Catalin%20Gheorghiu.jpg",
+         "Company":"I Computer Solutions"
+      },
+      {
+         "Id":28,
+         "FirstName":"Tomislav",
+         "LastName":"Tipurić",
+         "Bio":"Tomislav je Technology Evangelist u Microsoftu Hrvatska, pozicija koju bi na lokalni jezik bilo jednostavnije prevesti kao specijalist za tehnologiju s fokusom na softverske tvrtke. Njegova glavna preokupacija je promocija Microsoftove razvojne platforme – novih tehnologija iz pera razvojnih inženjera iz Redmonda te njihova implementacija u korisničkim i partnerskim scenarijima. Njegova su odgovornost također i različiti partnerski programi poput BizSparka – programa namijenjenog softverskim start-up tvrtkama te izgradnja odnosa s open source zajednicom. Prije rada za Microsoft bavio se razvojem web aplikacija, kao samostalni stručnjak i kao razvojni inženjer u timu. U posljednje vrijeme najviše vremena posvećuje Microsoft Azureu i računarstvu u oblaku općenito, tako da većinu svog vremena provodi prenoseći znanje na različitim tehničkim i poslovnim konferencijama predstavljajući i pozicionirajući Microsoftove proizvode u novoj eri računalstva. ",
+         "PictureUrl":"Tomislav_Tipuric_tt_cropped.jpg",
+         "Company":"Microsoft Hrvatska"
+      },
+      {
+         "Id":37,
+         "FirstName":"Damjan",
+         "LastName":"Tomić",
+         "Bio":"Damjan Tomić je zaposlen na poziciji CTO u kompaniji IT BIZ Solutions d.o.o. iz Beograda. Ima višegodišnje iskustvo u razvoju windows/web/portalskih rešenja zasnovanih na .NET platformi. Kao član više internacionalnih timova imao je priliku da radi na projektima za velike inostrane klijente. Poslednjih godina posebno je fokusiran na Enterprise Content Management sisteme, prvenstveno Microsoft SharePoint, koga koristi od verzije 2003. Povremeno doprinosi IT zajednici kroz rad na Open Source projektima zasnovanim na MS tehnologijama. Aktivan je član SharePoint Users Group Serbia.",
+         "PictureUrl":"Damjan_Tomic_damjan_tomic.jpg",
+         "Company":"IT BIZ SOLUTIONS"
+      },
+      {
+         "Id":12,
+         "FirstName":"Dubravko",
+         "LastName":"Marak",
+         "Bio":"Dubravko Marak radi u IT industriji više od 10 godina Tijekom karijere radio je sa MS tehnologijama počevši od servera NT 4.0 pa sve do sadašnjeg 2K8R2. Aktivan član je ITPro zajednice podržane od strane Microsofta. Bio je jedan od čestih predavača na konferencijama Windays, Sinergija, MS NetWork, MobilityDay, Vizija i ostalim konferencijama gdje se govori o Microsoft tehnologijama. Na Sinergiji 12 je proglašen drugim predavačem konferencije. Od zahtjevnijih projekata zanimljivo je izdvojiti migraciju kompletne infrastrukture sa NT 4.0 i  Exch 5.5 na server 2K3 i Exch 2K3, migracija kompletne infrastrukture sa platforme 2K3 R2 na 2K8 R2 i spajanje dva velika Njemačka Telekoma gdje je radio kao Arhitekt za Directory services Trenutno se bavi sistemskom arhitekturom i migracijama",
+         "PictureUrl":"Dubravko_Marak_Dubravko%20Marak_novo.jpg",
+         "Company":"GCON GmbH"
+      },
+      {
+         "Id":40,
+         "FirstName":"Goran",
+         "LastName":"Milanov",
+         "Bio":"\u003cp\u003e\u003cspan\u003eMicrosoft MVP za MS SQL Server. Sa Microsoft SQL \r\nServerom produkciono je angažovan još od verzije 6.5. Zone rada i \r\ninteresovanja su mu DataWarehouse i BI sistemi i Microsoft SQL Server \r\nservisi: SSAS, SSRS, SSIS, MDS, DQS. U svom radnom veku je učestvovao na\r\n realizaciji mnogih softverskih projekata, različitog obima, u \r\nrazličitim ulogama. Više puta je bio i formalni menadžer softverskim \r\nrazvojnim timovima. Pored tema vezanih za MS SQL Server piše blog i \r\nobjavljuje naučne radove na teme vezane za agilne metodologije i njihovu\r\n komparaciju sa tradicionalnim metodologijama za upravljanje razvojnim \r\nprojektima. Sertifikovani je Scrum Master (PSM I) na scrum.org\u003c/span\u003e\u003c/p\u003e",
+         "PictureUrl":"Goran_Milanov_Goran_Milanov.jpg",
+         "Company":"GoPro d.o.o. Beograd"
+      },
+      {
+         "Id":141,
+         "FirstName":"Galin",
+         "LastName":"Iliev",
+         "Bio":null,
+         "PictureUrl":null,
+         "Company":"Microsoft"
+      },
+      {
+         "Id":22,
+         "FirstName":"Bernardin",
+         "LastName":"Katić",
+         "Bio":"Nakon uzbudljivih i zabavnih profesionalnih početaka na razvoju računalnih igara u assembleru, diplome na područuju operacijskih sustava realnog vremena te izazovnog razvoja ekspertnih sustava, zadnjih godina se posvetio puno manje zabavnom, ali i dalje vrlo izazovnom dizajnu i razvoju sustava za financijsku industriju te njihovoj integraciji u enterprise okruženjima. U predahu od svakodnevnog posla vodi lokalni Microsoftov Community. Razvoj igara ga je naučio da je svaki byte i svaki takt procesora bitan, pa mu je najveće zadovoljstvo optimizirati sustave te iskoristiti sve raspložive resurse i postići da sustavi rade brže, bolje i kvalitetnije. Kao svaki pravi Slavonac, zaljubljenik je u skijanje, a u slobodno vrijeme nastoji poboljšati time management i provesti što više vremena s obitelji. Bernardin je nagrađen od strane Microsofta nagradom MVP - Most Valuable Professional za Visual C#. ",
+         "PictureUrl":"Bernardin_Katic_BernardPhoto.jpg",
+         "Company":"Hammer d.o.o."
+      },
+      {
+         "Id":73,
+         "FirstName":"Can",
+         "LastName":"Bilgin",
+         "Bio":"Can Bilgin currently works in CompuSight Corp as a Senior Software Architect. He has been working in software industry with Microsoft technologies for over a decade. In this period he took key roles in projects for high profile clients such as Microsoft, General Electric, Raiffeisen Bank, Jettainer and Adobe Echosign using technologies and platforms such as BizTalk, SharePoint, Dynamics CRM, Windows Mobile, Windows Phone, WinRT and WCF.\r\n\r\nHe tries to share his experience on his blog and through different MSDN activities. He regularly attends local Microsoft conferences and community events in the Balkan region. He is a Microsoft MVP. ",
+         "PictureUrl":"Can_Bilgin_MVPProfilePhoto.png",
+         "Company":"CompuSight"
+      },
+      {
+         "Id":75,
+         "FirstName":"Predrag",
+         "LastName":"Jelesijević",
+         "Bio":"Predrag Jelesijević radi u Računskom centru Elektrotehničkog fakulteta u Beogradu gde je poslednjih 8 godina na poziciji sistem administratora i predavača u Мicrosoft akademiji Elektrotehničkog fakulteta. Jedan je od lead-ova ITPro Serbia korisničke grupe i sa kolegama koordinira rad Microsoft community-ja u Srbiji. Microsoft mu je ove godina dodelio status Most Valuable Professional – MVP, a nosilac je i velikog broja tehničkih certifikata. Po struci je dip. ing. Elektrotehnike.",
+         "PictureUrl":"Predrag_Jelesijević_2ced0d2.jpg",
+         "Company":"Računski centar ETF Beograd"
+      },
+      {
+         "Id":102,
+         "FirstName":"Chris",
+         "LastName":"Spanougakis",
+         "Bio":"Chris is a Microsoft Certified Trainer since 2000 and holds a Master of Science in Computer Studies. He has participated in various Microsoft local and international events (Teched Europe, Microsoft Sinergija, IT Pro|Dev Connections, ShowIT) as a technology speaker and he is specialized in Microsoft products, such as Windows Server, Exchange Server, System Center products, etc. He is also a Microsoft Most Valuable Professional (MVP) in Directory Services since 2008. \r\nChris has 15 years experience as an IT consultant, specialized in the implementation of Microsoft technologies to organizations of any size.",
+         "PictureUrl":"Chris_Spanougakis_Untitled.jpg",
+         "Company":"SystemPlus"
+      },
+      {
+         "Id":98,
+         "FirstName":"Srđan",
+         "LastName":"Stević",
+         "Bio":"Srđan Stević je MCP je od 2003. Dugi niz godina se bavi sistemskom administracijom, projektovanjem, implementacijom i podrškom za Microsoft tehnologije (Windows Server, Active Directory, Exchange Server, Hyper-V, DirectAccess, RDS, Failover clustering). Zaposlen je kao sistem administrator na Učiteljskom fakultetu u Beogradu. Jedan je od lead-ova ITPro Serbia korisničke grupe i sa kolegama koordinira rad Microsoft community-ja u Srbiji. Predsednik je udruženja &amp;amp;quot;Tarabica IT konferencija&amp;amp;quot;. Kao jedan od najzahtevnijih, ali i najdražih projekata izdvaja migraciju Windows 2000 domena i Exchange 2000 infrastrukture na Windows 2003 i Exchange 2003 u prvoj fazi projekta, da bi u drugom delu nastavio migraciju kompletnog okruženja na Windows Server 2008 R2 i Exchange 2010. Vrlo ponosan na činjenicu da je učestvovao u jednoj od prvih Hyper-V Live migration implementacija u Srbiji. Bloguje na http://srdjanstevic.wordpress.com. Svakodnevno ga možete pratiti na https://twitter.com/srdjanstevic , a detaljan profil se nalazi na http://www.linkedin.com/pub/srdjan-stevic/b/a2/6a7\r\n",
+         "PictureUrl":"Srđan_Stević_AVATAR.jpg",
+         "Company":"Učiteljski fakultet Beograd"
+      },
+      {
+         "Id":96,
+         "FirstName":"Srđan",
+         "LastName":"Božović",
+         "Bio":"Srđan Božović Microsoft MVP, MCT. Radi na poziciji Technical Evangelist u Microsoft Srbija. Profesionalno se bavi programiranjem poslednjih petnaest godina. Trenutno je fokusiran na rešenja koja povezuju Windows Azure platformu i mobilne uređaje bazirane na Windows platformi. Voli da eksperimentiše sa različitim programskim jezicima. U aprilu 2009-te godine, postao je MVP za C# danas MVP za .NET",
+         "PictureUrl":"Srdjan_Bozovic_srdjan.bozovic_150x150.jpg",
+         "Company":"Microsoft Srbija"
+      },
+      {
+         "Id":3,
+         "FirstName":"Luka",
+         "LastName":"Manojlović",
+         "Bio":"Luka Manojlovic radi u ITju več više od 13 godina. Ima vlastito preduzece u Sloveniji kde radi kao konsultant i eksterni sistemski administrator za oko 40 preduzeca i ISPa. Zadnjih pet godina ima zvanje MS MVP za područja Consumer Security, Management infrastrucuture i Small business server.",
+         "PictureUrl":"Luka_Manojlovic_luka150.jpg",
+         "Company":"MA-NO d.o.o."
+      },
+      {
+         "Id":10,
+         "FirstName":"Rastislav",
+         "LastName":"Božović",
+         "Bio":"Sistem administrator sa preko 16 godina iskustva.\r\n\r\nSpecijalizovan za serverske proizvode, kao što su Windows Server, Exchange Server, ISA Server, FTMG, Lync Server, Skype for Business, SharePoint Server... \r\n \r\nUčestvovao kao predavač na Sinergiji i na TechEd.",
+         "PictureUrl":"Rastislav_Božović_Rastislav%20Bozovic.jpg",
+         "Company":"AutoMARKET"
+      },
+      {
+         "Id":86,
+         "FirstName":"Dragan",
+         "LastName":"Kešelj",
+         "Bio":"15 godina u IT sektoru\r\nPoslednjih 8 godina vodi razvojni tim od 10-15 ljudi\r\nStručne oblasti:\r\nProject management\r\nVirtualization\r\nSQL Server\r\n\r\n",
+         "PictureUrl":"Dragan_Kešelj_DSC_0136.png",
+         "Company":"QUANTUM - AutoMARKET d.o.o."
+      },
+      {
+         "Id":138,
+         "FirstName":"Bojan",
+         "LastName":"Vrhovnik",
+         "Bio":"TBD",
+         "PictureUrl":null,
+         "Company":"Microsoft Slovenija"
+      },
+      {
+         "Id":143,
+         "FirstName":"David",
+         "LastName":"Vidmar",
+         "Bio":null,
+         "PictureUrl":null,
+         "Company":" "
+      },
+      {
+         "Id":6,
+         "FirstName":"Marjan",
+         "LastName":"Nikolovski",
+         "Bio":"Leader, engineer and father. Passionate for building teams, knowledge sharing and product development. Marjan Nikolovski is founder and CEO of Emit Knowledge, research and product development startup company, utilizing knowledge, creativity and the right set of technologies to provide businesses with progressive solutions. He is actively involved in tech, open source and start up communities as a speaker and contributor. \r\n\r\nMarjan Nikolovski\r\nCEO &amp; Founder of Emit Knowledge",
+         "PictureUrl":"Marjan_Nikolovski_WP_20140923_013_BL.jpg",
+         "Company":"Emit Knowledge"
+      },
+      {
+         "Id":8,
+         "FirstName":"Omar",
+         "LastName":"Kudović",
+         "Bio":"Zaposlen u Quipu GmbH, Frankfurt, DE na poziciji Senior Unified Communications Specialist. IT iskustvo preko deset godina i veći dio toga vremena isključivo vezan za Exchange Server i „messaging solutions“. Posljednjih par godina intenzivno radi i uči o integracijama OCS / Lync Server / Skype For Business i Exchange Server i primjeni rješenja u poslovnom okruženju (audio / video / voice / messaging / security). Neka iskustva oko Lync Server i Skype For Business već prezentovao na MS Community BiH. Aktivan član Microsoft Community BiH, na kojem drži predavanja na temu integracija i rješenja u primjeni Lync Server i Skype For Business. Predavao na MS Network konferenciji 2012/2013/2014/2015, MS Community Konferenciji 2012/2013/2014, #Tarabica 2014/2015, Sinegrija 2014, KulenDayz 2014, te WinDays 2015. \r\nOd strane Microsoft tri puta nagrađen MVP titulom za Lync Server 2013 / Skype For Business (MVP site: http://mvp.microsoft.com/en-us/mvp/Omar%20Kudovic-5000227). Privatno: pasionirani ljubitelj rockabilly kulture, vina i audiofilizma, te kolekcionar muzičkih izdanja.",
+         "PictureUrl":"Omar_Kudovic_Omar%20Picture.jpg",
+         "Company":"ProCredit Bank d.d. Sarajevo"
+      },
+      {
+         "Id":128,
+         "FirstName":"Henrik",
+         "LastName":"Labadi",
+         "Bio":"Student - Visoka Tehnička Škola Strukovnih Studija Subotica 2009-Present\r\n\r\n\r\nMicrosoft Student Partner Lead: Microsoft Srbija\r\nJuly 2011 – Present (4 years 2 months)|Subotica, Serbia\r\n\r\nSoftware Developer: Minerva-Soft\r\nMay 2011 – April 2013 (2 years)\r\n\r\nLOB WPF applicaiton development using the MVVM pattern.\r\n",
+         "PictureUrl":"Henrik_Labadi_11129923_10205667331419931_5273278188634883033_n.jpg",
+         "Company":"Student"
+      },
+      {
+         "Id":85,
+         "FirstName":"Dejan",
+         "LastName":"Pervulov",
+         "Bio":"Kao tehnički konsultant učestvovao je na brojnim ERP, CRM i DWH/BI projektima u regionu. Razvojem na Microsoft tehnologijama bavi se već 15 godina i poseduje MCT, MCSE, MCSA, MCSD, MCDBA, MCTS i MCITP sertifikate. Kao Microsoft Certified Trainer bio je angažovan na pripremi i održavanju obuka u više školskih centara u Srbiji. Od oktobra 2014. je i Microsoft MVP za SQL Server.",
+         "PictureUrl":"Dejan_Pervulov_Dejan%20-%20150px.jpg",
+         "Company":"MERA Software Services"
+      },
+      {
+         "Id":71,
+         "FirstName":"Aleksandar",
+         "LastName":"Nikolić",
+         "Bio":"Aleksandar Nikolic is a Microsoft MVP for Windows PowerShell, an Azure Insider, a co-founder of PowerShellMagazine.com, and the community manager of PowerShell.com. \r\n\r\nHe is very experienced presenting and speaking to Microsoft customers, and have facility for describing complex management and automation tasks even to beginning and novice users and scripters, and has more than 17 years of experience as a system administrator. He also delivers PowerShell training courses around the world. \r\n\r\nFor the last two years he\u0027s been working closely with Microsoft Azure PowerShell team providing feedback and influencing design of Azure Powershell cmdlets. You can find him on Twitter (https://twitter.com/alexandair) and LinkedIn (http://www.linkedin.com/in/alexandair).",
+         "PictureUrl":"Aleksandar_Nikolić_AleksandarNikolic.jpg",
+         "Company":"M.O.3.A.K IT Consulting"
+      },
+      {
+         "Id":136,
+         "FirstName":"Jovan",
+         "LastName":"Popović",
+         "Bio":"Jovan Popovic je program menadžer u SQL Server timu, sa sedištem u Microsoft Development Centru Srbija u Beogradu. Trenutno je učestvuje u razvoju novih funkcionalnosti za SQL Server 2016 i Azure Sql Db.",
+         "PictureUrl":null,
+         "Company":"Microsoft"
+      },
+      {
+         "Id":112,
+         "FirstName":"Miloš",
+         "LastName":"Živadinović",
+         "Bio":"Miloš je student četvrte godine Fakulteta organizacionih nauka, usmerenje Informacioni sistemi i tehnologije. Glavna oblast interesovanja mu je bezbednost mobilnih uređaja, kao i razvoj softvera za sve platforme i namene. U slobodno vreme se bavi programiranjem i čitanjem.",
+         "PictureUrl":"Miloš_Živadinović_2013-08-11_223646.png",
+         "Company":"Seraphim Solutions"
+      },
+      {
+         "Id":74,
+         "FirstName":"Saša",
+         "LastName":"Kranjac",
+         "Bio":"Saša is Technical Trainer and Consultant with almost two decades of experience in the IT field. Shortly after beginning programming in Assembler, he met Windows NT 3.5 and the love exists since then. He have held various jobs and roles: Teacher, Systems Engineer, IT Manager, Consultant, and IT Trainer. \r\nWhile his focus and interest is on everything related to Cloud and Security, he loves tearing apart operating systems of any kind.\r\nSaša works mainly as a Consultant and Technical Trainer on Azure, Office 365, Security, Internals and other intertwining technologies as well.",
+         "PictureUrl":"Sasa_Kranjac_Sasa%20Kranjac%20(140x140).png",
+         "Company":"Kranjac s.p."
+      },
+      {
+         "Id":129,
+         "FirstName":"Wekoslav",
+         "LastName":"Stefanovski",
+         "Bio":"Wekoslav Stefanovski has over a decade of professional developer experience using a variety of development technologies. Has been using JavaScript since before the turn of the century and has a long and fruitful love/hate relationship with it. Currently works at Seavus as a Senior Developer. He is passionate about functional programming, static code analysis, compiler design and code quality metrics.",
+         "PictureUrl":"Wekoslav_Stefanovski_IMG_0068_mala_150.jpg",
+         "Company":"Seavus"
+      },
+      {
+         "Id":131,
+         "FirstName":"Martin",
+         "LastName":"Kulov",
+         "Bio":"Martin Kulov founded both DevReach and the Association of Software Engineers, and ten+time MVP for Visual Studio ALM. Martin specializes in providing software development teams with strategies to efficiently deliver software solutions.\r\nAs a featured speaker at conferences, his lectures and software development seminars are highly sought after. Kulov co-authored Programming for .NET Framework, is an INETA Speaker, and has active blog about Visual Studio ALM, debugging .NET applications, load testing and performance diagnostics at www.kulov.net.\r\n&amp;amp;#160;\r\nDuring his career, Martin has had diverse experiences; working at small businesses in teams to consulting groups at enterprise companies. Currently, Martin’s typical client engagements include when crucial software needs to be delivered, teams require restructuring, or when a software operations emergency occurs.\r\n",
+         "PictureUrl":"Martin_Kulov_kulov06%20-%20small.jpg",
+         "Company":"kulov.net"
+      },
+      {
+         "Id":94,
+         "FirstName":"Tanja",
+         "LastName":"Vukov",
+         "Bio":"Tanja Vukov - naučni saradnik Instituta za biološka istraživanja, Univerzitet u Beogradu. Ekspert za biostatistiku  sa glavnom ulogom da transformiše podatke u razumljive naučne zaključke. Kao analitičar podataka pomogla je u razvijanju novih praksi na polju poljoprivrede i medicine. Objavila je više od 20 naučnih radova u vodećim međunarodnim časopisima. Doktor je nauka u oblasti evolucione biologije.  ",
+         "PictureUrl":"Tanja_Vukov_Tanja_photo1.jpg",
+         "Company":"Univerzitet u Beogradu, Institut za biološka istraživanja"
+      },
+      {
+         "Id":49,
+         "FirstName":"Admir",
+         "LastName":"Tuzović",
+         "Bio":"Programiranjem se počeo baviti davne 1992. godine, koristeći Borland C++ da bi napravio funkcionalnosti poput upotrebe miša u DOS aplikacijama, putem praćenja interrupta 33h. \r\n\r\nPobjednik na nekoliko kantonalnih i državnih takmičenja iz fizike i informatike, te predstavnik BiH na nekoliko međunarodnih olimpijada. Učestvovao u organizaciji BiH informatičkih olimpijada (BHOI). Studirao je Automatiku i Elektroniku na Elektrotehničkom Fakultetu u Sarajevu. \r\n\r\nTrenutno je uposlen kao Technical Evangelist u Microsoft uredu u Bosni i Hercegovini gdje kroz svoje svakodnevne aktivnosti promovira najnovije Microsoft tehnologije. Veliki je zaljubljenik Microsoft Azure platforme, a posjeduje i dugogodišnje iskustvo u arhitekturi distribuiranih rješenja na ASP.NET framework-u.\r\n\r\nOsnovni postulati kojim se vodi u toku rada su: KISS - Keep It Simple, Stupid i DRY - Don\u0027t Repeat Yourself. Aktivni je MCPD - Microsoft Certified Professional Developer (Web Developer 4).",
+         "PictureUrl":"Admir_Tuzović_31ff8f2.jpg",
+         "Company":"Microsoft Bosnia and Herzegovina"
+      }
+   ],
+   "Sessions":[
+      {
+         "Id":347,
+         "Track":"OFC",
+         "DayId":1,
+         "TimeLine":1,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":6,
+         "Title":"Roadmap and new capabilities in Office 365",
+         "Description":null,
+         "FileName":null
+      },
+      {
+         "Id":382,
+         "Track":"DYN",
+         "DayId":1,
+         "TimeLine":1,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":5,
+         "Title":"Ogromni koraci napred sa NAV 2016",
+         "Description":"Novi NAV 2016 upravo se pojavljuje na sceni. U ovoj verziji, Microsoft je odlučio da donese zaista ogromna poboljšanja kako bi sistem bio pogodan za najzahtevnije klijente i sa najnovijim tehničkim dostignućima.\r\nNAV najzad dolazi na sve uređaje, od svih računara, preko tableta, pa do telefona. Takođe, uz podrazumevane integracije sa Power BI, CRM Online, Azure SQL-om,... sistem je spreman za izuzetne zahteve, bilo da ga koristite on-premise ili na cloudu. Omogućeni su novi načini integracije bez dorađivanja sistema, DMS sa OCR-om, nove funkcionalnosti i još puno toga.\r\nVidećete puno novina u NAV 2016 uz žive primere i prezentaciju kako se i gde mogu iskoristiti u praksi.",
+         "FileName":null
+      },
+      {
+         "Id":401,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":1,
+         "Lang":"ENG",
+         "Level":200,
+         "RoomId":3,
+         "Title":"Latest and Greatest in the World of the Power BI",
+         "Description":"If you are interested in the real life experiences of working with the latest Power BI;\r\nIf you care to learn tips and tricks of life with Power BI tools and platforms;\r\nIf you want to know how to do 90% of Power BI tasks in 10% of time;\r\nIf you want to have fun while listening about Power BI;\r\nIf any or all of the above looks good to you, come to my Power BI presentation and I’ll do my best to tell you all you ever wanted to know about Power BI but didn’t know who to ask.",
+         "FileName":null
+      },
+      {
+         "Id":420,
+         "Track":"DIM",
+         "DayId":1,
+         "TimeLine":1,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":1,
+         "Title":"Windows Server 2016 - šta je novo za administratore i inžinjere?",
+         "Description":"Novi Windows Server je pred vratima. Kao i uvek, temeljni serverski OS u svojoj novoj verziji donosi mnogo novosti. Ovo predavanje bavi se ključnim novostima koje su interesantne onima koji danas održavaju ili implementiraju serverske operativne sisteme.",
+         "FileName":null
+      },
+      {
+         "Id":489,
+         "Track":"DEV",
+         "DayId":1,
+         "TimeLine":1,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":7,
+         "Title":"Šta je novo u  TFS 2015 i Visual Studio Online?",
+         "Description":" ",
+         "FileName":null
+      },
+      {
+         "Id":354,
+         "Track":"DEV",
+         "DayId":1,
+         "TimeLine":2,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":7,
+         "Title":"Kako napraviti ispravnu funkcionalnu specifikaciju za developere",
+         "Description":"Koliko puta ste kao developer dobili specifikaciju koja nije jasna? U kojoj ne piše sve? U kojoj su zahtjevi dvosmisleni? Sigurno jako mnogo! I, kad ste na kraju napravili aplikaciju bilo koje vrste dobli ste komentare tipa: Tu nije sve, to nije ono što smo tražili, nedostaje Vam ovo i ono, ja to nisam tražio i, ono najgore, kad ste rekli da to ne pišpe nigdje, dobili ste odgovor: TO SE PODRAZUMIJEVA! Da bi to uvelike izbjegli iskusni voditelji projekta i solution guru će Vam ispričati KAKO!",
+         "FileName":null
+      },
+      {
+         "Id":372,
+         "Track":"OFC",
+         "DayId":1,
+         "TimeLine":2,
+         "Lang":"ENG",
+         "Level":200,
+         "RoomId":1,
+         "Title":"O365 and how to sucsessfully deploy it in your organization",
+         "Description":"Deploying of Office 365 may not be that complex. This session will talk about the process and tips and tricks how to successfully lead  your organization in adopting O365 in your organization.",
+         "FileName":null
+      },
+      {
+         "Id":456,
+         "Track":"DEV",
+         "DayId":1,
+         "TimeLine":2,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":6,
+         "Title":"Razvoj Enterprise aplikacija u Typescript-u",
+         "Description":"Na ovom predavanju  saznaćete više o razvoju veb aplikacije u AngularJs/Bootstrap i Typescript tehnologijama kao i prednosti static typing-a u odnosu na dynamic typing u JavaScript-u. Pokazaćemo šta sve može da se uradi sa Gulp-om, alatom za automatske taskove na front end-u, i kako je Gulp integrisan u Visual Studio 2015. Takođe će biti prikazano kako se koristi Bower, package manager za veb. Na kraju ćete videti kako bi ista aplikacija izgledala u Angular 2.",
+         "FileName":null
+      },
+      {
+         "Id":470,
+         "Track":"DIM",
+         "DayId":1,
+         "TimeLine":2,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":4,
+         "Title":"IT „Disaster Recovery“  planovi i „Murphy\u0027s law“ – Iskustva iz Fukushima-e i Chernobyl-a …",
+         "Description":"Većina planova se nikada ne testira u potpunosti, vreme koje je potrebno da se implementira plan obično (veoma varira u odnosu na procenu. \r\nKada se na to još doda „Murphy\u0027s law“  dolazimo u situaciju u kojoj niko ne želi da se nađe.\r\n \r\nNa prezentaciji će biti predstavljeni premeri kada DR plan nije adekvatno testirano. Pričaćemo i kako da dizajniramo rešenja koja su otporna na otkaz.\r\n \r\nKroz celu prezentaciju ćemo pričati o paralelama sa dve najpoznatije nuklearne nesreće i kako su one mogle relativno lako da budu izbegnute\r\n",
+         "FileName":null
+      },
+      {
+         "Id":479,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":2,
+         "Lang":"ENG",
+         "Level":200,
+         "RoomId":2,
+         "Title":"New functionalities in SQL Server 2016 and Azure SQL Database",
+         "Description":"Come and here directly from the SQL development team what are the major new capabilities arriving to SQL Server 2016 and Azure SQL Database. The upcoming releases will enable a large number of new experiences such as: Stretch DB, Polybase, Operational Analytics, Always Encrypted, Temporal, Query Store, JSON support and more. In addition, in-memory OLTP and Columnstore will be considerably improved over SQL Server 2014.",
+         "FileName":null
+      },
+      {
+         "Id":484,
+         "Track":"DYN",
+         "DayId":1,
+         "TimeLine":2,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":5,
+         "Title":"Šta nam novo donosi Dynamics CRM Online?",
+         "Description":"Prema poslednjem izveštaju firme Gartner tržište CRM softvera beleži rast tokom prethodnih godina. To je posebno izraženo u cloud ponudi CRM aplikacija. Microsoft ide u korak i novitete prvo uvodi u Dynamics CRM Online izdanju.   \r\n\r\nDynamics CRM Online pruža platformu koja je spremna da se prilagodi i odgovori tržišnim potrebama. Na predavanju ćete videti:\r\n·       Šta je novo u Dynamics CRM Online 2015 Update 1?\r\n·       Kako se Dynamics CRM Online povezuje sa Office 365 servisima?\r\n·       Šta je Microsoft platforma &quot;Sales Productivity&quot;?",
+         "FileName":null
+      },
+      {
+         "Id":445,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":3,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":7,
+         "Title":"SQL Server 2016 Temporal Tables",
+         "Description":"Jedna od novina koje nam donosi SQL 2016 je implementacija System-Versioned Temporal Tables. Prezentacija ima za cilj da slušaocima približi teorijske osnove koncepta vremenskih tabela kao i da objasni kako je to definisao ISO/ANSI SQL:2011 standard. \r\nTežište predavanja je na implementaciji koju nam donosi nova verzija SQL servera uz primere koji će bliže objasniti šta se sve dobija upotrebom Temporal Tables: kako se podiže kvalitet podataka uskladištenih u bazu, kako se povećava efikasnost i produktivnost u razvoju baza, kako se smanjuje kod.\r\nNa kraju će biti dat osvrt na očekivanja šta još treba da bude implementirano sa uporednim pregledom rezultata ostalih proizvođača.",
+         "FileName":null
+      },
+      {
+         "Id":450,
+         "Track":"DEV",
+         "DayId":1,
+         "TimeLine":3,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":3,
+         "Title":"Entity Framework 7",
+         "Description":"TBD",
+         "FileName":null
+      },
+      {
+         "Id":460,
+         "Track":"WPD",
+         "DayId":1,
+         "TimeLine":3,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":5,
+         "Title":"Razvoj hibridnih cross-platform aplikacija",
+         "Description":"TBD",
+         "FileName":null
+      },
+      {
+         "Id":475,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":3,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":2,
+         "Title":"Azure SQL Database Roadmap Update",
+         "Description":"Azure SQL Database is on a roll with a blockbuster set of new features. Attend this session to get a recap on the big changes and investments with Azure SQL Database; new SaaS business model and elastic database pools, enhanced disaster recovery features, elastic database tools, transparent data encryption, expanded T-SQL surface area name a few. We will also share our forward looking road-map of investments that will help customer migrate and build new data-tier database applications.",
+         "FileName":null
+      },
+      {
+         "Id":488,
+         "Track":"OFC",
+         "DayId":1,
+         "TimeLine":3,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":4,
+         "Title":"Exchange Server 2016",
+         "Description":" ",
+         "FileName":null
+      },
+      {
+         "Id":421,
+         "Track":"OFC",
+         "DayId":1,
+         "TimeLine":4,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":3,
+         "Title":"Office365 - tehnike za zaštitu podataka",
+         "Description":"Prihvatanje korištenja cloud servisa u produkciji zahteva i definisanje nešto drugačijeg pogleda na sigurnost podataka koji se nalaze u cloud-u ili se koriste u cloud-u. Office365, kao jedan od najviše korištenih cloud servisa ima nekoliko tehnologija kojima možemo dodatno zaštiti kako podatke u cloud-u tako i one lokalne. Ovo predavanje bavi se upravo tim temama - kako radi Office365 message encryption, šta je i kako radi Office365 RMS i kako danas možemo koristiti ove tehnologije.",
+         "FileName":null
+      },
+      {
+         "Id":422,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":4,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":6,
+         "Title":"Hadoop ekosistem u praksi - socijalne mreže - unapređenje prodaje i servisa",
+         "Description":"Kada pomenete big data i hadoop kao platformu mnogi pomisle na ogromnu količinu podataka, veliki broj &quot;servera&quot; i na neke čudne tehnologije sa raznim  alatima i jezicima čudnih naziva. \r\n\r\nInžinjeri sa pravom postavljaju pitanja:\r\nDa li &quot;big data&quot; uvek mora biti &quot;big&quot;? Da li hadoop treba da zameni DWH? Kako integrisati Hadoop u postojeći DWH ili obratno? Da li ovo možemo napraviti na cloud-u?\r\n\r\nMenadžeri imaju druga pitanja:\r\nKo su naši klijenti?  Šta klijenti misle o našim proizvodima i uslugama? Kako unaprediti prodaju?\r\n\r\nDa li nam ove tehnologije mogu pomoći?\r\n\r\nNa predavanju biće prikazana studija korišćenja Hadoop ekosistema na primeru korišćenja socijalnih mreža s jasnim ciljem: unapređenje prodaje i servisa.\r\n\r\nPokazaćemo hadoop ekosistem koji uključuje:\r\n- Hadoop Hortonworks, HDFS, YARN, MapReduce\r\n- FLUME, Pyton, Pig, Hive\r\n- SSIS i load na MS SQL\r\n- AJAX ASP.NET",
+         "FileName":null
+      },
+      {
+         "Id":474,
+         "Track":"DIM",
+         "DayId":1,
+         "TimeLine":4,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":4,
+         "Title":"IT Pro in Developer\u0027s World - Infrastructure as a Code",
+         "Description":"Over the years, life of an Application was separated into two tracks – birth (development) and life (operations). Problems aroused from these two being treated as siloed concerns is the core driver behind of birth of DevOps concept. Main idea of DevOps is: operations and development engineers have to participate together in the entire Application lifecycle, from design through the development process to production support. Main problem (one of, to be honest..) is different set of tools used by these two groups. For a long time, instead of manually configuring infrastructure, you can write scripts. But these days, more and more, infrastructure configuration goes beyond scripting. You can actually fully incorporate the configuration in your applications code.  Infrastructure as a code (IaaC) is nothing but a way to define all the parts you already know in a way that can be deployed automatically over and over without the fear that the results will differ. Treating infrastructure as a code is a key element of DevOps, and it benefits both teams. Developers become more involved in specifying configurations, and Ops teams get involved earlier in the development process.",
+         "FileName":null
+      },
+      {
+         "Id":476,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":4,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":7,
+         "Title":"Azure SQL DB Workload Insights - journey towards a smarter database",
+         "Description":"Join the session to learn more about the push to make SQL DB more intelligent and super easy to use. \r\n\r\nAzure SQL Database service is introducing a new set of experiences that simplify DB performance management and tuning and improve customer experience on the platform. SQL DB will analyze the DB usage data to come up with personalized tuning recommendations for customer databases that can be consumed as hints or applied automatically. ",
+         "FileName":null
+      },
+      {
+         "Id":480,
+         "Track":"WPD",
+         "DayId":1,
+         "TimeLine":4,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":1,
+         "Title":"Make powerful devices with Rapsberry Pi and Windows 10",
+         "Description":"I will talk about making powerful applications that can run on Rapsberry Pi and uses Speech Recognition , Realtime Communication and third party services.",
+         "FileName":null
+      },
+      {
+         "Id":379,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":6,
+         "Title":"Big Data: Apache Spark - novo pojačanje tradicionalnom BI ili ne?",
+         "Description":"Apache Spark je od nedavno pojačanje na Azure-u, ako govorimo o obradi podataka koje nazivamo Big Data. Spark je platforma za distribuiranu obradu podataka. Dolazi sa komponentama Spark Core, Spark SQL, Spark Streaming i Spark MLlib. Nešto po čemu je Spark postao poznat jeste i brzina. Testovi pokazuju da je deset puta brži u obradi podataka od MapReduce-a. Spark omogućava da proširite i koristite postojeća rešenja za Big Data analitiku. Lako se integriše sa Power BI.\r\n",
+         "FileName":null
+      },
+      {
+         "Id":381,
+         "Track":"DIM",
+         "DayId":1,
+         "TimeLine":5,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":4,
+         "Title":"System Center VMM 2016 Technical Preview 3",
+         "Description":"TBD",
+         "FileName":null
+      },
+      {
+         "Id":407,
+         "Track":"OFC",
+         "DayId":1,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":100,
+         "RoomId":5,
+         "Title":"Kako uspješno implementirati Yammer?",
+         "Description":"Kako bi tvrtke ostvarile svoju konkurentsku prednost moraju se brže i bolje prilagođavati tržišnim zahtjevima i promjenama. Moderne tehnologije donose nove načine komuniciranja i suradnje, a poslovna društvena mreža Yammer predstavlja polazišnu točku u procesu prikupljanja i razmjene informacija, znanja i iskustva, omogućavajući im da trajno budu trajno pohranjeni i pretraživi za buduće generacije.\r\nNa ovom predavanju pokazat ćemo vam koji su sastavni elementi uspješne implementacije i adopcije poslovne društvene mreže među korisnicima. Na koji način strukturirati projektni pristup, kako savladati izazove i pokrenuti promjene u organizacijskoj kulturi prihvaćanjem novog komunikacijsko kolaboracijskog alata. U drugom djelu predavanja osvrnut ćemo se priče uspješnice, iskustvo i korisničke scenarije tvrtki koje su prepoznale i ostvarile potencijal poslovne društvene mreže.\r\n",
+         "FileName":null
+      },
+      {
+         "Id":426,
+         "Track":"OFC",
+         "DayId":1,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":1,
+         "Title":"SharePoint 2016 Preview- šta je novo?",
+         "Description":"NAPOMENA: Sadržaj ove prezentacije odnosi se na javni preview SharePoint-a 2016 koji bi trebao biti objavljen tokom avgusta 2015.\r\n\r\nSharePoint 2016 je prva verzija SharePoint-a čiji je razvoj u potpunosti baziran na Microsoft-ovim iskustvima na razvoju cloud rješenja - Office 365 i  korisničkim feedbackom dobijenim sa Office-a 365. Poboljšano upravljanje instalacijom, hibridne funkcionalnosti i user interface samo su neke od novosti u ovoj verziji on-premise rješenja. U ovom predavanju ćemo pomenuti najvažnije od novih funkcionalnosti i demonstrirati neke od njih.",
+         "FileName":null
+      },
+      {
+         "Id":449,
+         "Track":"DBI",
+         "DayId":1,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":2,
+         "Title":"Power BI Desktop",
+         "Description":"TBD",
+         "FileName":null
+      },
+      {
+         "Id":462,
+         "Track":"DEV",
+         "DayId":1,
+         "TimeLine":5,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":3,
+         "Title":"Developing on the Edge",
+         "Description":"Brojke govore same za sebe. HTML5 test daje 435 poena za Edge u poredjenju sa 297 za ie10 I 336 za IE11.\r\nOvo predavanje ce da bude pregled novih funkcionalnosti koje ce nam omoguciti brzi i laksi razvoj bogatijih aplikacija nego ikad ranije.",
+         "FileName":null
+      },
+      {
+         "Id":367,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":1,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":6,
+         "Title":"Azure DocumentDB i druge No-SQL-on-Azure priče",
+         "Description":"NoSQL pokret prilično je jak u razvojnoj zajednici u posljednjih desetak godina i neki tvrde da je najvažnija promjena u povijesti rada s podacima. Od svoga začetka, Azure je imao razne NoSQL ponude za razvojne inženjere. DocumentDB je najnoviji od njih – NoSQL DBaaS (database-as-a-service) za pohranjivanje JSON dokumenata. Kako iskoristiti prednosti ovog pristupa? Kada koristiti i, još važnije, kada ne koristiti NoSQL? Ako su ovo pitanja s kojima se muči vaš razvojni tim, ili jednostavno želite saznati više o čudnoj stvari koja se zove NoSQL, pridružite nam se na ovome predavanju.",
+         "FileName":null
+      },
+      {
+         "Id":403,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":1,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":1,
+         "Title":"Razvoj AngularJS web aplikacije za Office365",
+         "Description":"Na prezentaciji će biti prikazano sve što je potrebno da bi se napravila moderna AngularJS/Bootstrap HTML5 aplikacija koja radi sa Office365 podacima, kao i konfiguracioni koraci neophodni za uspešan deploy aplikacije u cloud.",
+         "FileName":null
+      },
+      {
+         "Id":404,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":1,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":4,
+         "Title":"Windows 10 - Što je novo za ITPro",
+         "Description":"Windows 10 je generalno dostupan od 29.07. ove godine. Sam OS nam je donio dosta novosti poput Universal Appsa, novog pristupa device managementu, nove konfigurabilnosti. Koje je sve novitete donio Windows 10 vezano uz ITPro svijet biti će prikazano na samom predavanju.",
+         "FileName":null
+      },
+      {
+         "Id":478,
+         "Track":"WPD",
+         "DayId":2,
+         "TimeLine":1,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":5,
+         "Title":" IoT fun and games",
+         "Description":"In this presentation we will show that big boys can still play with toys. We decided to put Raspberry Pi,  Arduino and a few mobile devices into the blender, add some wires and several lines of code, press a high  speed button and see how much Fun&amp;Games we can squeeze out of it.\r\nIoT is the game changer  It\u0027s so obvious that Internet of Things is a next Big Thing, game changer in IT world, most of us think how it  can make our homes more comfortable, our traveling safer, help us taking better care of our health (don\u0027t  forget saving the environment!) and so on. All that is important, but not forget that we also need to have some time for fun in our lives. In this presentation we will give few demos and show that IoT can turn some serious things into games and less serious into totally funny ones. \r\nSo while having fun we will see what Windows 10, Visual Studio 2015 and of course Azure can do to help us make great IoT solutions using Raspberry Pi2 and Arduino devices. A lot of code, a lo lot of devices, cloudy, chocolates and a lots of fun awaits you at this presentation. \r\n",
+         "FileName":null
+      },
+      {
+         "Id":481,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":1,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":7,
+         "Title":"SQL Server 2016 Row-level security &amp; Dynamic Data Masking",
+         "Description":"SQL Server 2016 donosi dosta unapređenja u sigurnosti i privatnosti. Cilj sesije je da predstavi ta unapređenja.",
+         "FileName":null
+      },
+      {
+         "Id":485,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":1,
+         "Lang":"ENG",
+         "Level":300,
+         "RoomId":2,
+         "Title":"A lap around Azure App Service",
+         "Description":"In this session we will take a look how we can start building a service in minutes using Azure application platform, and what it takes to scale it to perform at Internet scale. We will explore latest features for development and troubleshooting and the best practices for running a live service.",
+         "FileName":null
+      },
+      {
+         "Id":383,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":2,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":3,
+         "Title":"Bug Happens - Efikasno rješavanje bugova uz Visual Studio",
+         "Description":"Svaki, pa i najbolji komad dobrog koda ima u sebi pokoji dobro skriveni bug, koji se najčešće otkrije tek kada kod bude isporučen u produkciju, a developer koji je kod napisao taman otišao na godišnji... S paralelnim i asinkronim kodom smo dobili i potpuno nove, zle i još teže uhvatljive bugove. Na ovom developerskom predavanju ćemo proći kroz pregršt savjeta kako izbjeći bugove, te načina kako uz nove osobine Visual Studia olakšati debuggiranje.",
+         "FileName":null
+      },
+      {
+         "Id":413,
+         "Track":"WPD",
+         "DayId":2,
+         "TimeLine":2,
+         "Lang":"ENG",
+         "Level":300,
+         "RoomId":5,
+         "Title":"Connected Apps on UWP",
+         "Description":"Universal Windows Platform brings many revised or completely new features and APIs related to app communication with networks, peripherals and even among applications. This presentation will have an insightful look at the communication APIs of windows 10 and provide small code demonstrations.",
+         "FileName":null
+      },
+      {
+         "Id":436,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":2,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":1,
+         "Title":"Novi Hyper-V u novim OS ",
+         "Description":"Novi operativni sistemi nam donose pregršt novina. Polje virtualizacije je i dalje vrlo aktuelno pa nam je i vrlo značajno da znamo šta da očekujemo od novina u Hyper-V platformi kao i kako će se to reflektovati na našu virtualnu infrastrukturu. Kroz nekoliko demoa videćemo i najinteresantnije stvari koje nas očekuju. ",
+         "FileName":null
+      },
+      {
+         "Id":482,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":2,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":2,
+         "Title":"SQL Server In-Memory OLTP u praksi",
+         "Description":"Do sada su svi koji se profesionalno bave razvojem softvera verovatno čuli o In-Memory OLTP (Hekaton) mogućnostima u SQL Serveru 2014. \r\n\r\nU ovoj sesiji fokus će biti na praktičnoj primeni In-Memory tehnologije, sa demonstracionim prikazima tri primera koja su implementirana u kompaniji bwin, a u kojima je moja malenkost participirala.\r\n\r\nPotkraj sesije provirićemo i do probnih verzija SQL Server 2016 kako bismo videli koja su ograničenja prevaziđena i šta će još biti moguće ostvariti primenom In-Memory tehnologije. \r\n\r\nNakon sesije posetiocima iste biće lakše da razmotre da li primenom In-Memory OLTP tehnologija mogu da unaprede performanse svojih sistema, kako da se za implementaciju i uvođenje u produkciju pripreme i naposletku da li im je u tu svhu potrebno investiranje u resurse (RAM, diskovi…).\r\n\r\nZa posetioce sesije poželjno je poznavanje osnovnih karakteristika In-Memory OLTP u SQL Server 2014.",
+         "FileName":null
+      },
+      {
+         "Id":392,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":3,
+         "Lang":"ENG",
+         "Level":300,
+         "RoomId":4,
+         "Title":"Nano Server: The future of Windows Server is here!",
+         "Description":"Nano Server is here, so let\u0027s discover together during this session what is all about this new version and how you can use it in your enterprise network. We\u0027ll see how to install it and configure it, but also what are the ways to manage Nano Server remotely. We\u0027ll also see what are the server roles that are available today and you\u0027ll be surprised to discover the minimal resources that this new server consumes.",
+         "FileName":null
+      },
+      {
+         "Id":419,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":3,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":1,
+         "Title":"Enterprise Mobility - koncept i tehnologija",
+         "Description":"Enterprise Mobility kao koncept danas je vrlo živa tema u mnogim kompanijama. Izmeštanjem podataka izvan kontrolisanih okruženja, te ekspanzijom upotrebe uređaja koji nisu upravljivi na klasičan način, definisanje strategije upravljanja podacima, uređajima i zaštitom istih postaje nužno. U ovom predavanju bavimo se samim Enterprise Mobility konceptom, razlozima za definisanjem istog u gotovo svakoj kompaniji, te tehnologijama koje Microsoft nudi na ovom polju.",
+         "FileName":null
+      },
+      {
+         "Id":437,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":3,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":6,
+         "Title":"Windows 10 i Azure AD",
+         "Description":"Azure Active Directory (Azure AD) je Microsoft-ovo rešenje za directory servis u cloud-u. Azure AD je rešenje koje administratorima omogućuje jednostavnu single sign-on integraciju sa cloud aplikacijama, kao što su Office 365, DropBox, Salesforce... \r\n\r\nOno što malo korisnika zna, je da, ukoliko već koriste Office 365, Dynamics CRM ili Azure, to znači da već imaju i Azure AD! Potrebno je vrlo malo truda da bi se napravila integracija sa ostalim popularnim cloud aplikacijama. \r\n\r\nOno što je još interesantnije, Windows 10, najnoviji Microsoft-ov klijentski OS, je moguće integrisati u Azure AD uz vrlo malo truda. \r\n\r\nPosetioci će se tokom predavanja upoznati sa prednostima Azure AD platforme i uveriti se koliko je zapravo brzo i lako napraviti Azure AD. Nakon toga, videće kako da Windows 10 laptop pridruže u Azure AD domen i koje su im opcije nakon toga na raspolaganju. ",
+         "FileName":null
+      },
+      {
+         "Id":452,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":3,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":2,
+         "Title":"SQL Server: Operational Analytics",
+         "Description":"TBD",
+         "FileName":null
+      },
+      {
+         "Id":483,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":3,
+         "Lang":"SRP",
+         "Level":200,
+         "RoomId":7,
+         "Title":"Primenjen DevOps – kontinuirana integracija i postavljanje rešenja",
+         "Description":"DevOps je skup praksi koje imaju za cilj da učine pojedinačni ciklus u životu softvera što kraćim, a njegovu isporuku što pouzdanijom. Ovo predavanje, na praktičnom primeru, prikazuje jedno rešenje za integraciju aplikativnog i infrastrukturnog koda, te automatsko postavljanje aplikacije u QA okruženje na Azure. Ukoliko se opredelite da posetitie ovo predavanje saznaćete:\r\n-\tKako da konfigurišete Visual Studio Online Build za kompajliranje i pakovanje veb aplikacije\r\n-\tKako da opišete infrastrukturu pomoću koda koristeći Docker tehnologiju\r\n-\tKako da postavite ASP.NET MVC4 aplikaciju u Linux Docker kontejner\r\n-\tKako da konfigurišete DockerHub servis za integraciju infrastrukturnog i aplikativnog koda\r\n-\tKako da upotrebite Azure Resource Manager za postavljanje rešenja zasnovanog na Dockeru u Azure\r\n-\tKako da uvežete Visual Studio Online, DockerHub i Azure Automation kako bi dobili kontinuirani i automatski proces",
+         "FileName":null
+      },
+      {
+         "Id":344,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":4,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":4,
+         "Title":"Software defined storage @ modern datacenter",
+         "Description":"Software defined strorage je novi building block modernog datacentra - sa Windows serverom 2016 mogucnosti na tom podrucuju postaju neogranicene poput storage replikacije, storage spaces direct funkcionalnosti... Tekom prezentacije cemo pogledati sve novosti in nacine implementacije storage-a kroz operativni sistem - tako kroz teoretski kao i kroz praktični dio.",
+         "FileName":null
+      },
+      {
+         "Id":371,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":4,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":3,
+         "Title":"And Then Came SQL Server 2016 Query Store ",
+         "Description":"Query Store je veoma značajna novina u SQL Serveru 2016 koja omogućava uvid u istoriju izvršenja upita i stored procedura na serveru sa najvažnijim parametrima, uključujući i sam plan izvršenja. Povrh toga, intuitivno i brzo moguće je rešiti probleme sa performansama koji su prouzrokovani promenjenim planom izvršenja.\r\n\r\nKome je taj feature namenjen, koliko se server resursa troši na arhiviranje planova i da li Query Store predstavlja revoluciju u procesu performance troubleshootinga i tuninga? Sva ta pitanja, te realna i nerealna očekivanje biće razmotrena u okviru sesije. \r\n\r\nDiskusiju ćemo zaključiti i začiniti informacijama iz prve ruke od developera iz MS centra u Beogradu koji su intenzivno radili i rade na Query Store.",
+         "FileName":null
+      },
+      {
+         "Id":429,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":4,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":7,
+         "Title":"Office 365 Unified API - najlakši način za pristup Office 365 podacima iz vaših aplikacija",
+         "Description":"Office Graph i Office 365 Unified API omogućavaju pristup podacima smještenim na Office 365 servisima kroz jedan jedinstveni REST API endpoint, kao i uspostavljanje relacija između podataka i korisnika. U ovom predavanju naučićete kako da koristite ovaj endpoint u svojim aplikacijama - pristup korisnicima, fajlovima, kalendaru, mailovima, te kako da kreirate relacije i navigaciju izmešu svih dostupnih Office 365 entiteta, korištenjem jednog API endpointa i uz samo jednu autentikaciju.",
+         "FileName":null
+      },
+      {
+         "Id":432,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":4,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":6,
+         "Title":"Windows 10: Implementing and configuring Desktop Optimization Package 2015",
+         "Description":"Microsoft Desktop Optimization Package (MDOP) je korisna grupa sledećih Windows alata:\r\n\r\n-\tApp-V (App Virtualization); \r\n-\tUE-V (User Experience Virtualization); \r\n-\tMBAM (Microsoft BitLocker Administration and Monitoring); \r\n-\tAGPM (Advanced Group Policy Management); \r\n-\tDaRT (Diagnostics and Recovery toolset).\r\n\r\nMDOP alati omogućavaju proaktivno upravljanje sa mogućim problemima u radu sa aplikacijama i sistemskim komponentama Windows 10 desktop računara.\r\n\r\nMDOP je enterprise-ready, scalabilno, low-cost deployment rešenje, koje omogućava granularni error filtering, alerting, identifikaciju mogućih uzroka problema, daje predloge rešenja za otklanjanje problema čime Windows 10 desktop računari postaju mnogo stabilniji i pouzdaniji.\r\n",
+         "FileName":null
+      },
+      {
+         "Id":477,
+         "Track":"WPD",
+         "DayId":2,
+         "TimeLine":4,
+         "Lang":"ENG",
+         "Level":200,
+         "RoomId":5,
+         "Title":"Microsoft and IOT",
+         "Description":"Internet of things is lately a buzz word, that a lot of companies uses in their service / product portfolio, mainly because of device availability and technology support. At the session We will explore, what Microsoft can offer on this area and how can we use already provided services to maintain a big flow of data, saving it and do a meaningful reports based on the provided input. We will start with devices, gather data and provide some additional services based on business need. We will explore the data flow from a device to the cloud, services for getting the unstructured data (StreamAnalytics, Cloud Service, Azure Storage, etc.), provide a meaningful output and give user an option to work with grouped data further in their business scenarios as we grow.",
+         "FileName":null
+      },
+      {
+         "Id":486,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":4,
+         "Lang":"ENG",
+         "Level":300,
+         "RoomId":1,
+         "Title":"Take any backend, hosted anywhere, and expose an API in minutes with Azure API Management",
+         "Description":"APIs represent a huge business growth opportunity for organizations of all sizes. APIs are being used to monetize existing data and services, open new channels to new customers, and improve business agility. However, opening APIs to partners and developers has many challenges - creating consistent modern API facades for existing backend services, protecting APIs form misuse and overuse, productizing the APIs, on-boarding developers, getting insight into API usage and health, just to name a few. In my hands-on presentation I will show you how to easily overcome these challenges with the help of Azure API Management.",
+         "FileName":null
+      },
+      {
+         "Id":345,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"ENG",
+         "Level":300,
+         "RoomId":3,
+         "Title":"Down the rabbit hole - Error handling examined",
+         "Description":"Setting up a errors and exceptions handling in a system is a big architectural challenge. \r\nIf you want to listen and discuss about different kind of errors, affected groups of people, error categorization and error context this session is for you!\r\n \r\nIn this session we will cover:\r\n- theory of errors;\r\n- error and exception handling on architectural level;\r\n- process mining over application log files;",
+         "FileName":null
+      },
+      {
+         "Id":359,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":7,
+         "Title":"Benchmark Applications with Cloud-Based Load Testing",
+         "Description":"Microsoft MVP (Visual Studio ALM). Over 14 years of IT experience and strong technical background have provided a strong business foundation in Managing ICTs. I am highly experienced IT Systems professional with proven management and technical skills and demonstrated the ability to build/lead/mentor teams of other IT technical personnel in different IT functions. Proven business analysis and business intelligence skills as well as the ability to see both the big picture and detailed view have constantly been a valuable asset in all situations.\r\nLarge experience in planning, design and implementation of software solutions in the areas of e-Commerce, e-Business, e-Banking and e-Government, based on Microsoft technologies / systems. Continuously explore and implement practices to successfully manage the overall process of developing software solutions using the latest technologies and systems.",
+         "FileName":null
+      },
+      {
+         "Id":363,
+         "Track":"OFC",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":1,
+         "Title":"Skype For Business Server 2015 ::: Video Conferencing onako, natenane!",
+         "Description":"Šta nam to donosi novo Skype For Business 2015 i na koje promjene se morate pripremiti, kada je upitanju priprema i održavanje video konferencija? Koliku ulogu u cijelom sistemu ima nova serverska rola Video Interoperability Server (VIS) i kako ce se ona ponasati u manjim, srednjim i velikim okruženjima? Tokom predavanja ćete se upoznati s svim novinama koje nam dolaze s Skype For Business u svijetu video konferencija i broadcasta. Sve ovo, onako natenane uz demo prikaze video mogućnosti, dobru diskusiju i dobra vina (naravno za one najaktvinije tokom predavanja)",
+         "FileName":null
+      },
+      {
+         "Id":433,
+         "Track":"WPD",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":5,
+         "Title":"One Windows, One Store, One App",
+         "Description":"Razvoj aplikacije za Windows 10, Adaptive Design, Windows Core i Platform Extensions, portovanje Windows (Phone) 8.1 app.\r\n3 demo (Windows app, mobile app (adaptive design - Visual States), port)",
+         "FileName":null
+      },
+      {
+         "Id":458,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":2,
+         "Title":"Iskoristite platformu za izveštavanje koju donosi SQL Server 2016",
+         "Description":"TBD",
+         "FileName":null
+      },
+      {
+         "Id":471,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":4,
+         "Title":"Windows Server Containers",
+         "Description":null,
+         "FileName":null
+      },
+      {
+         "Id":473,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":5,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":6,
+         "Title":"Procesiranje JSON dokumenta u Sql Server 2016 and Azure SQL Db bazama",
+         "Description":"Sql Server 2016 i Azure Sql Db donose podršku za obradu JSON dokumenata. Na ovom predavanju ćemo videti kao se koriste nove funkcije za obradu JSON dokumenata.",
+         "FileName":null
+      },
+      {
+         "Id":356,
+         "Track":"WPD",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"SRP",
+         "Level":100,
+         "RoomId":5,
+         "Title":"Analiza i poređenje sandbox rešenja platformi Windows Phone 8.1 i Android",
+         "Description":"Broj korisnika mobilnih uređaja je u porastu, a samim time i broj kompanija koje koriste mobilne uređaje za poslovanje, nebitno od sektora u kome posluju. Najveći problem u vezi mobilnih uređaja je kontrola softvera koji se nalazi na njima koji bi trebao da štiti interne kompanijske podatke po principima tajnosti, integriteta i dostupnosti. Jedna od glavnih komponenti u tome jeste sandbox model koji određuje stepen pristupa resursima uređaja od strane aplikacija. Na ovom predavanju vršiće se definicija i prikaz sandbox modela Windows Phone 8.1 i Android platformi, kratak istorijat platformi zajedno sa osvrtom na Windows 10 Mobile i Android 5.0 platforme. Na kraju, putem uporedne analize, utvrđujemo ko je zapravo pobednik po pitanju sandbox sigurnosti.",
+         "FileName":null
+      },
+      {
+         "Id":441,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":2,
+         "Title":"Azure Multi-Factor Authentication",
+         "Description":"Multi-Factor Authentication, termin često predstavljen kraticom MFA, je način autentikacije korisnika koristeći više od jednog načina provjere identiteta. Dostupan i u Microsoft Azure oblačnom servisu, pruža veći nivo sigurnosti korisnicima i njihovim podacima.\r\nDoznajte kako upotrebiti Azure MFA mogućnosti da bi zaštitili svoje servise i aplikacije u Microsoft Azure-u i saznajte kako iskoristiti Azure MFA za zaštitu Office 365 servisa. Otkrijte pravu vrednost Azure MFA i pobrinite se da Vaše poslovanje i podaci budu zaštićeni na pravi, siguran način.",
+         "FileName":null
+      },
+      {
+         "Id":442,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"SRB",
+         "Level":200,
+         "RoomId":3,
+         "Title":"TypeScript 1.5 - Ili kako sam prestao da se brinem i naučio da volim JavaScript",
+         "Description":"Web je posvuda - svakog dana sve više. Uskoro ćemo imati web na frižideru i tosteru. A gde je web - tamo je i JavaScript, sa svim svojim lepim i ne tako lepim osobinama. Hteli ili ne hteli, ako ste danas developer, onda ste JavaScript developer. I to je problem jer mnogo ljudi ne vole pisati JavaScript - pa postoji cela ergela alata kojima možemo to da izbegnemo. TypeScript je jezik koji se ne plaši JavaScript-a, već prihvata sve dobre stvari i dodaje još svojih. Posle tri godina razvoja, sada već dolazi na svoje, i postaje ono što svima nama treba - pravi alat za brzi i kvalitetan razvoj web-orientiranog koda.",
+         "FileName":null
+      },
+      {
+         "Id":447,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"ENG",
+         "Level":200,
+         "RoomId":1,
+         "Title":"Operating Microservices",
+         "Description":"Microservices tend to break the current monolith state of applications today. Breaking down to many apps instead of one however requires different tools and skills for monitoring them all.\r\nTo gain the level of visibility and ease of maintenance that we need sometimes architectural changes are required.\r\nIf you are DevOps Practitioner, Technical Leader, IT Professional, Release Manager or the guy who develops the code this session will help you navigate through different tools and techniques available today to successfully operate and manage microservices running on the Microsoft platform. \r\n",
+         "FileName":null
+      },
+      {
+         "Id":454,
+         "Track":"DIM",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"SRB",
+         "Level":300,
+         "RoomId":4,
+         "Title":"Azure Automation, Your Management Solution for All Clouds",
+         "Description":"When you want to administer operational and management tasks and processes efficiently, you need to automate. We will talk about how to use Azure Automation and Azure Automation DSC to transform infrastructure management in Azure and on-premises.",
+         "FileName":null
+      },
+      {
+         "Id":469,
+         "Track":"DBI",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"SRP",
+         "Level":300,
+         "RoomId":6,
+         "Title":"Prikupljanje i analiza velikog broja podataka u realnom vremenu putem Stream Analytics ",
+         "Description":"Big data priča je već odavno “u igri” ali je prvenstveni fokus bio na samoj količini podataka i njihovom prikupljanju. Sledeći veliki korak zbog koga Microsoft razvija Azure Stream Analytics je pronalaženje metoda da se ta bujica podataka u što kraćem intervalu, po mogućstvu čak i u realnom vremenu, pretvori u čoveku prepoznatljive indikatore.  Ovakva brza analiza podataka može dati veliku prednost nad konkurencijom i omogućiti donošenje pravih odluka u pravi čas.",
+         "FileName":null
+      },
+      {
+         "Id":472,
+         "Track":"DEV",
+         "DayId":2,
+         "TimeLine":6,
+         "Lang":"SRP",
+         "Level":400,
+         "RoomId":7,
+         "Title":"Microsoft Azure Table Storage - Performance Best Practices",
+         "Description":"Table Storage je NoSQL key-attributes mehanizam čuvanja struktuiranih podataka dostupan u sklopu Microsoft Azure Storage servisa. Dizajniran je sa ciljem da podrži čuvanje stotina terabajta podataka uz nevjerovatne performanse te automatsku skalabilnost. Za postizanje optimalnih performansi, potrebno je usvojiti određena pravila kod dizajniranja arhitekture sistema. Kroz više praktičnih demonstracija, prikazaćemo kako se za neke od standardnih scenarija mogu postići i do 100x bolje performanse.",
+         "FileName":null
+      }
+   ],
+   "SessionSpeakerRelations":[
+      {
+         "SpeakerId":44,
+         "SessionId":347
+      },
+      {
+         "SpeakerId":50,
+         "SessionId":382
+      },
+      {
+         "SpeakerId":39,
+         "SessionId":401
+      },
+      {
+         "SpeakerId":34,
+         "SessionId":420
+      },
+      {
+         "SpeakerId":7,
+         "SessionId":489
+      },
+      {
+         "SpeakerId":18,
+         "SessionId":354
+      },
+      {
+         "SpeakerId":54,
+         "SessionId":354
+      },
+      {
+         "SpeakerId":44,
+         "SessionId":372
+      },
+      {
+         "SpeakerId":134,
+         "SessionId":456
+      },
+      {
+         "SpeakerId":135,
+         "SessionId":470
+      },
+      {
+         "SpeakerId":139,
+         "SessionId":479
+      },
+      {
+         "SpeakerId":140,
+         "SessionId":484
+      },
+      {
+         "SpeakerId":130,
+         "SessionId":445
+      },
+      {
+         "SpeakerId":38,
+         "SessionId":450
+      },
+      {
+         "SpeakerId":77,
+         "SessionId":460
+      },
+      {
+         "SpeakerId":137,
+         "SessionId":475
+      },
+      {
+         "SpeakerId":144,
+         "SessionId":488
+      },
+      {
+         "SpeakerId":34,
+         "SessionId":421
+      },
+      {
+         "SpeakerId":82,
+         "SessionId":422
+      },
+      {
+         "SpeakerId":80,
+         "SessionId":422
+      },
+      {
+         "SpeakerId":93,
+         "SessionId":422
+      },
+      {
+         "SpeakerId":57,
+         "SessionId":474
+      },
+      {
+         "SpeakerId":137,
+         "SessionId":476
+      },
+      {
+         "SpeakerId":92,
+         "SessionId":480
+      },
+      {
+         "SpeakerId":80,
+         "SessionId":379
+      },
+      {
+         "SpeakerId":2,
+         "SessionId":381
+      },
+      {
+         "SpeakerId":124,
+         "SessionId":407
+      },
+      {
+         "SpeakerId":64,
+         "SessionId":426
+      },
+      {
+         "SpeakerId":38,
+         "SessionId":449
+      },
+      {
+         "SpeakerId":62,
+         "SessionId":462
+      },
+      {
+         "SpeakerId":28,
+         "SessionId":367
+      },
+      {
+         "SpeakerId":37,
+         "SessionId":403
+      },
+      {
+         "SpeakerId":12,
+         "SessionId":404
+      },
+      {
+         "SpeakerId":62,
+         "SessionId":478
+      },
+      {
+         "SpeakerId":40,
+         "SessionId":481
+      },
+      {
+         "SpeakerId":141,
+         "SessionId":485
+      },
+      {
+         "SpeakerId":22,
+         "SessionId":383
+      },
+      {
+         "SpeakerId":73,
+         "SessionId":413
+      },
+      {
+         "SpeakerId":75,
+         "SessionId":436
+      },
+      {
+         "SpeakerId":54,
+         "SessionId":482
+      },
+      {
+         "SpeakerId":102,
+         "SessionId":392
+      },
+      {
+         "SpeakerId":34,
+         "SessionId":419
+      },
+      {
+         "SpeakerId":98,
+         "SessionId":437
+      },
+      {
+         "SpeakerId":38,
+         "SessionId":452
+      },
+      {
+         "SpeakerId":96,
+         "SessionId":483
+      },
+      {
+         "SpeakerId":3,
+         "SessionId":344
+      },
+      {
+         "SpeakerId":54,
+         "SessionId":371
+      },
+      {
+         "SpeakerId":64,
+         "SessionId":429
+      },
+      {
+         "SpeakerId":10,
+         "SessionId":432
+      },
+      {
+         "SpeakerId":86,
+         "SessionId":432
+      },
+      {
+         "SpeakerId":138,
+         "SessionId":477
+      },
+      {
+         "SpeakerId":143,
+         "SessionId":477
+      },
+      {
+         "SpeakerId":141,
+         "SessionId":486
+      },
+      {
+         "SpeakerId":6,
+         "SessionId":345
+      },
+      {
+         "SpeakerId":7,
+         "SessionId":359
+      },
+      {
+         "SpeakerId":8,
+         "SessionId":363
+      },
+      {
+         "SpeakerId":128,
+         "SessionId":433
+      },
+      {
+         "SpeakerId":85,
+         "SessionId":458
+      },
+      {
+         "SpeakerId":71,
+         "SessionId":471
+      },
+      {
+         "SpeakerId":3,
+         "SessionId":471
+      },
+      {
+         "SpeakerId":136,
+         "SessionId":473
+      },
+      {
+         "SpeakerId":112,
+         "SessionId":356
+      },
+      {
+         "SpeakerId":74,
+         "SessionId":441
+      },
+      {
+         "SpeakerId":129,
+         "SessionId":442
+      },
+      {
+         "SpeakerId":131,
+         "SessionId":447
+      },
+      {
+         "SpeakerId":71,
+         "SessionId":454
+      },
+      {
+         "SpeakerId":94,
+         "SessionId":469
+      },
+      {
+         "SpeakerId":49,
+         "SessionId":472
+      }
+   ],
+   "Slots":[
+      {
+         "Id":1,
+         "TimeLine":0,
+         "DayId":1,
+         "Type":"Keynote",
+         "StartHour":10,
+         "StartMinute":0,
+         "EndHour":11,
+         "EndMinute":0
+      },
+      {
+         "Id":2,
+         "TimeLine":0,
+         "DayId":1,
+         "Type":"Break",
+         "StartHour":11,
+         "StartMinute":0,
+         "EndHour":11,
+         "EndMinute":30
+      },
+      {
+         "Id":3,
+         "TimeLine":1,
+         "DayId":1,
+         "Type":"Session",
+         "StartHour":11,
+         "StartMinute":30,
+         "EndHour":12,
+         "EndMinute":30
+      },
+      {
+         "Id":4,
+         "TimeLine":0,
+         "DayId":1,
+         "Type":"Break",
+         "StartHour":12,
+         "StartMinute":30,
+         "EndHour":13,
+         "EndMinute":0
+      },
+      {
+         "Id":5,
+         "TimeLine":2,
+         "DayId":1,
+         "Type":"Session",
+         "StartHour":13,
+         "StartMinute":0,
+         "EndHour":14,
+         "EndMinute":0
+      },
+      {
+         "Id":6,
+         "TimeLine":0,
+         "DayId":1,
+         "Type":"Lunch",
+         "StartHour":14,
+         "StartMinute":0,
+         "EndHour":15,
+         "EndMinute":0
+      },
+      {
+         "Id":7,
+         "TimeLine":3,
+         "DayId":1,
+         "Type":"Session",
+         "StartHour":15,
+         "StartMinute":0,
+         "EndHour":16,
+         "EndMinute":0
+      },
+      {
+         "Id":8,
+         "TimeLine":0,
+         "DayId":1,
+         "Type":"Break",
+         "StartHour":16,
+         "StartMinute":0,
+         "EndHour":16,
+         "EndMinute":30
+      },
+      {
+         "Id":9,
+         "TimeLine":4,
+         "DayId":1,
+         "Type":"Session",
+         "StartHour":16,
+         "StartMinute":30,
+         "EndHour":17,
+         "EndMinute":30
+      },
+      {
+         "Id":10,
+         "TimeLine":0,
+         "DayId":1,
+         "Type":"Break",
+         "StartHour":17,
+         "StartMinute":30,
+         "EndHour":18,
+         "EndMinute":0
+      },
+      {
+         "Id":11,
+         "TimeLine":5,
+         "DayId":1,
+         "Type":"Session",
+         "StartHour":18,
+         "StartMinute":0,
+         "EndHour":19,
+         "EndMinute":0
+      },
+      {
+         "Id":12,
+         "TimeLine":1,
+         "DayId":2,
+         "Type":"Session",
+         "StartHour":9,
+         "StartMinute":0,
+         "EndHour":10,
+         "EndMinute":0
+      },
+      {
+         "Id":13,
+         "TimeLine":0,
+         "DayId":2,
+         "Type":"Break",
+         "StartHour":10,
+         "StartMinute":0,
+         "EndHour":10,
+         "EndMinute":30
+      },
+      {
+         "Id":14,
+         "TimeLine":2,
+         "DayId":2,
+         "Type":"Session",
+         "StartHour":10,
+         "StartMinute":30,
+         "EndHour":11,
+         "EndMinute":30
+      },
+      {
+         "Id":15,
+         "TimeLine":0,
+         "DayId":2,
+         "Type":"Break",
+         "StartHour":11,
+         "StartMinute":30,
+         "EndHour":12,
+         "EndMinute":0
+      },
+      {
+         "Id":16,
+         "TimeLine":3,
+         "DayId":2,
+         "Type":"Session",
+         "StartHour":12,
+         "StartMinute":0,
+         "EndHour":13,
+         "EndMinute":0
+      },
+      {
+         "Id":17,
+         "TimeLine":0,
+         "DayId":2,
+         "Type":"Lunch",
+         "StartHour":13,
+         "StartMinute":0,
+         "EndHour":14,
+         "EndMinute":0
+      },
+      {
+         "Id":18,
+         "TimeLine":4,
+         "DayId":2,
+         "Type":"Session",
+         "StartHour":14,
+         "StartMinute":0,
+         "EndHour":15,
+         "EndMinute":0
+      },
+      {
+         "Id":19,
+         "TimeLine":0,
+         "DayId":2,
+         "Type":"Break",
+         "StartHour":15,
+         "StartMinute":0,
+         "EndHour":15,
+         "EndMinute":30
+      },
+      {
+         "Id":20,
+         "TimeLine":5,
+         "DayId":2,
+         "Type":"Session",
+         "StartHour":15,
+         "StartMinute":30,
+         "EndHour":16,
+         "EndMinute":30
+      },
+      {
+         "Id":21,
+         "TimeLine":0,
+         "DayId":2,
+         "Type":"Break",
+         "StartHour":16,
+         "StartMinute":30,
+         "EndHour":17,
+         "EndMinute":0
+      },
+      {
+         "Id":22,
+         "TimeLine":6,
+         "DayId":2,
+         "Type":"Session",
+         "StartHour":17,
+         "StartMinute":0,
+         "EndHour":18,
+         "EndMinute":0
+      }
+   ],
+   "Events":[
+
+   ],
+   "Test":null,
+   "PicturesLocation":"https://www.mssinergija.net/sr/sinergija15/vesti/PublishingImages/Predavaci/"
+}

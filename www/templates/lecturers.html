@@ -1,0 +1,19 @@
+<ion-nav-title>
+   <span ng-hide="search">Title</span>
+   <span ng-if="search">
+      <label class="item item-input">
+         <input type="text" placeholder="Search..." ng-model="searchText">
+      </label>
+   </span>
+</ion-nav-title>
+<ion-view>
+    <ion-content ng-init="getSpeakers()" class="scroll-content ionic-scroll">
+        <ion-list class="lecturers">
+            <ion-item ng-repeat="speaker in items" class="item-avatar" href="#/lecturer-single-view/{{speaker.Id}}">
+                <img class="Avatar" ng-src="{{speaker.pictureUrl}}">
+                <h2>{{speaker.FirstName}} {{speaker.LastName}}</h2>
+                <p>{{speaker.Company}}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

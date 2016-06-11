@@ -1,0 +1,44 @@
+<ion-view>
+	<ion-content class="scroll-content ionic-scroll">
+		<div class="partnersLogo">
+			<h2 class="generalniSponzor">Generalni sponzor:</h2>
+			<img ng-src="{{comtrade}}">
+		</div>
+		<div class="partnersLogo">
+			<h2 class="zlatniSponzor">Zlatni sponzor:</h2>
+			<img ng-src="{{dell}}">
+		</div>
+		<div class="partnersLogo">
+			<h2 class="partneri">Partneri:</h2>
+			<div ng-repeat="partner in partneri">
+				<img ng-src="{{partner.partnerLogo.url}}">
+			</div>
+		</div>
+		<div class="partnersLogo">
+			<h2 class="sponzor">Sponzor:</h2>
+			<img ng-src="{{softnet}}">
+		</div>
+		<div class="partnersLogo">
+			<h2 class="tehnickiPartneri">Tehnički partneri:</h2>
+			<div ng-repeat="tpartner in tpartneri">
+				<img ng-src="{{tpartner.partnerLogo.url}}">
+			</div>
+		</div>
+		<div class="partnersLogo">
+			<h2 class="sponzorAplikacije">Sponzor zvanične Sinergija 15 mobilne aplikacije:</h2>
+			<img ng-src="{{new}}">
+		</div>
+		<div class="partnersLogo">
+			<h2 class="prijateljiKonferencije">Prijatelji konferencije:</h2>
+			<div ng-repeat="prijatelj in prijatelji">
+				<img ng-src="{{prijatelj.partnerLogo.url}}">
+			</div>
+		</div>
+		<div class="partnersLogo">
+			<h2 class="medijskiPartneri">Medijski partneri:</h2>
+			<div ng-repeat="mpartner in mpartneri">
+				<img ng-src="{{mpartner.partnerLogo.url}}">
+			</div>
+		</div>
+	</ion-content>
+</ion-view>

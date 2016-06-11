@@ -1,0 +1,25 @@
+<ion-view hide-nav-bar="true">
+    <ion-content ng-init="getSpeakers()" scroll="true">
+        <div class="singleViewLecturer" ng-show="!load">
+            <div class="pic1" style="background-image:url({{speaker.PictureUrl}})"></div>
+            <div class="pic11"></div>
+            <button class="button button-clear button-light icon ion-ios-arrow-left button-large" ng-click="myGoBack()" style="margin-top:5px"></button>
+            <img class="pic2" src="{{speaker.PictureUrl}}">
+            <h4>{{speaker.FirstName}} {{speaker.LastName}}</h4>
+            <p>{{speaker.Company}}</p>
+            <p>{{track}}</p>
+        </div>
+        <div class="single-lecturer">
+
+            <ion-list>
+                <ion-item ng-repeat="lecture in lectures" class="single-lecturer-bio">
+<!--                    <div class="single-lecturer-bio">-->
+                        <a href="#/single-view/{{lecture.Id}}/{{lecture.lectureTime}}" style="color:white;cursor:pointer;text-decoration:none">{{lecture.Title}}</a>
+<!--                    </div>-->
+                </ion-item>
+            </ion-list>
+
+            <p>{{speaker.Bio}}</p>
+        </div>
+    </ion-content>
+</ion-view>

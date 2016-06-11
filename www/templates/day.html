@@ -1,0 +1,18 @@
+<ion-view hide-back-button="true">
+       <div class="tabs-top tabs-color-light">
+           <div class="tabs" style="top:34px ; height: 50px">
+               <a  class="tab-item {{firstTab}}" ng-click="selectedDay=1">Dan 1</a>
+               <a  class="tab-item {{secondTab}}" ng-click="selectedDay=2">Dan 2</a>
+           </div>
+       </div>
+   <ion-content  class="scroll-content ionic-scroll" style="margin-top: 48px;">
+       <ion-list class="itemList" can-swipe="listCanSwipe">
+           <ion-item ng-repeat="lecture in lectures track by $index" class="item-avatar-right item-text-wrap" href="#/single-view/{{lecture.Id}}/{{lecture.lectureTime}}">
+               <img ng-src="{{lecture.speakerOfSession.PictureUrl}}" />
+               <p>{{lecture.lectureTime}}</p>
+               <h1>{{lecture.Title}}</h1>
+               <ion-option-button class="{{lecture.alreadyAdded}} icon ion-star" ng-click="addRemoveFavorite({{lecture.Id}});"></ion-option-button>
+           </ion-item>
+       </ion-list>
+   </ion-content>
+</ion-view>

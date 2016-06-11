@@ -1,0 +1,519 @@
+/* Empty. Add your own CSS if you like */
+
+.funnelBtn {
+	height: 26px;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+.cancelBtnFilter {
+	color: #444;
+}
+/* Side Menu */
+.sideMenu {
+	background-color: #fff;
+	text-align: center;
+	color: #838383;
+}
+.sideMenu a {
+	font-family: LatoBold;
+	font-size: 20px;
+	background-color: #f0f0f0;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+.sideMenu img {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 200px;
+}
+.sideMenu p {
+	text-align: left;
+	font-family: LatoLight;
+	font-size: 11px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.sideMenuRight {
+	background-color: #fff;
+	text-align: center;
+	color: #838383;
+}
+.sideMenuRight a {
+	font-family: LatoBold;
+	background-color: #f0f0f0;
+	font-size: 20px;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+.sideMenuRight p {
+	text-align: left;
+	font-family: LatoLight;
+	font-size: 11px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.sideMenuRight img {
+	vertical-align: middle;
+}
+.sideMenuRight span {
+	vertical-align: middle;
+}
+/* Single View */
+.singleView {
+	padding-left: 10px;
+}
+.singleView h4 {
+	font-family: LatoRegular;
+	color: #808080;
+	text-align: left;
+	font-size: 22px;
+}
+.singleViewTop {
+	padding: 20px;
+	padding-left: 0px;
+	width: 450px;
+}
+.singleViewTop img {
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+.lectureInfo {
+	width: 210px;
+	position: absolute;
+	min-height: 80px;
+	background-color: #f5f5f5;
+	padding-top: 2px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	margin-left: 100px;
+	margin-top: -85px;
+}
+.lectureInfo h5 {
+	font-family: LatoBold;
+    font-size: 15px;
+    font-weight: bold;
+}
+.lectureInfo p {
+	color: #999999;
+	font-weight: bold;
+	line-height: 10px;
+}
+.lang {
+	display: inline;
+}
+.track {
+	margin-left: 3px;
+	display: inline;
+}
+
+.lectureTitleAndDesc {
+	color: #9e9e9e;
+	text-align: justify;
+	padding-right: 10px;
+	margin-top: 30px;
+}
+
+.favoriteButton {
+	margin-top: 10px;
+	margin-left: 0px;
+}
+.addToFavorites {
+	position: relative;
+	display: block;
+	width: 200px;
+	height: 60px;
+	padding: 10px;
+	text-align:center;
+}
+.addToFavorites p {
+	color: #999999;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 3px;
+	margin-left: 35px;
+}
+.addToFavorites .favoriteButton {
+	padding-top: 0px;
+	margin-top: -10px;
+	position: absolute;
+	left: 0px;
+}
+
+/* single view lecturer*/
+.singleViewLecturer {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+}
+.pic1 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+	position: absolute;
+	top: -2%;
+	left: -2%;
+	width: 106%;
+  	height: 52%;
+	-webkit-filter: blur(11px); -moz-filter: blur(11px); -o-filter: blur(11px); -ms-filter: blur(11px); filter: blur(11px);
+	-webkit-filter: scale(1.5); -moz-filter: scale(1.5); -o-filter: scale(1.5); -ms-filter: scale(1.5); filter: scale(1.5);
+}
+.pic11 {
+	position: absolute;
+    background-color: black;
+    opacity: 0.55;
+	top: 0;
+	left: 0;
+	width: 100%;
+  	height: 50%;
+    box-shadow: 0px 0px 20px 0px black;
+    -webkit-box-shadow:0px 0px 20px 0px black;
+    -moz-box-shadow: 0px 0px 20px 0px black;
+    -o-box-shadow: 0px 0px 20px 0px black;
+}
+.single-lecturer{
+        position: absolute;
+    top: 50%;
+    padding: 15px;
+}
+.single-lecturer-bio{
+    background-color: #651076;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    white-space:   normal;
+}
+.singleViewLecturer h4 {
+	margin-top: 190px;
+	position: relative;
+	color: #fff;
+	font-weight: bold;
+	line-height: 12px;
+}
+ .singleViewLecturer p {
+ 	position: relative;
+	color: #C9C9C9;
+	font-weight: bold;
+	line-height: 12px;
+}
+.pic2 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-left: -80px;
+	margin-top: 50px;
+}
+.singleViewLecturer button {
+	float: left;
+	margin-left: -18px;
+	margin-top: -5px;
+}
+
+
+/* favorites title */
+.favoritesTitle {
+	color: #888888;
+	font-family: LatoBold;
+	text-align: center;
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+/* noFavorites */
+.noFavorites {
+	color: #888888;
+	font-size: 20px;
+	text-align: center;
+	font-family: LatoBold;
+}
+.haveFavorites {
+	display: none;
+}
+
+/* itemList */
+.itemList h1 {
+	color: #888888;
+	font-family: LatoBold;
+	font-size: 16px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 5px;
+	margin-left: 60px;
+	margin-right: 5px;
+}
+
+.itemList p {
+	color: #888888;
+	font-family: LatoBold;
+	float: left;
+	margin-top: 10px;
+}
+
+.item-thumbnail-right > img:first-child, .item-thumbnail-right .item-image, .item-thumbnail-right .item-content > img:first-child, .item-thumbnail-right .item-content .item-image {
+	max-width: 50px;
+	max-height: 50px;
+}
+/* lecturers list */
+.lectures-title {
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+	border-bottom: 1px solid #DDD;
+}
+.trackTitle {
+	display:inline-block;
+	vertical-align: middle;
+	margin: 0 auto;
+}
+.lectures-subtitle {
+	line-height: 40px;
+	margin: 0 auto;
+	text-align: center;
+}
+.trackImage {
+	vertical-align: middle;
+	display:inline-block;
+}
+.no-trackImage {
+	display: none;
+}
+.trackImage img {
+	padding-top: 5px;
+	height: 40px;
+	vertical-align: middle;
+}
+
+
+/* lecturers */
+.lecturers p {
+	color: #888888;
+	font-family: LatoRegular;
+	font-size: 12px;
+	margin: 0 auto;
+	margin-top: 3px;
+	margin-left: 40px;
+}
+.lecturers {
+	margin-bottom: 40px;
+}
+.lecturers p {
+    color: #888888 ;
+    font-family: LatoRegular;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-left: 5px;
+}
+.lecturers h2 {
+    font-family: LatoBold;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.lecturersTitle h3 {
+	color: #888888;
+	font-family: LatoBold;
+	text-align: center;
+	font-size: 17px;
+	margin-top: 20px;
+}
+.lecturersTitle p {
+	color: #888888;
+	font-family: LatoRegular;
+	font-size: 12px;
+	text-align: center;
+}
+.showSearch {
+	display: block;
+}
+.hideSearch {
+	display: none;
+}
+
+.item-thumbnail-left > img:first-child, .item-thumbnail-left .item-image, .item-thumbnail-left .item-content > img:first-child, .item-thumbnail-left .item-content .item-image {
+	max-width: 80px;
+	max-height: 80px;
+}
+
+/* social corner */
+.socialCornerButton {
+	text-align: right;
+	padding-right: 30px;
+	margin-bottom: 30px;
+}
+.tweet {
+	width: 60%;
+	height: 120px;
+	border-radius: 5px;
+	background-color: #f5f5f5;
+	margin: 0 auto;
+	color: #a7a7a7;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+/* ABOUT */
+.scroll {
+	height: 100%;
+}
+#map {
+	height: 60%;
+	width: 100%;
+}
+
+.about-us-info {
+	text-align: center;
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.about-us-info img {
+	width: 250px;
+}
+.about-us h3 {
+	font-family: LatoRegular;
+	color: #808080;
+	text-align: center;
+	font-size: 22px;
+}
+.about-us p {
+	text-align: left;
+	font-family: LatoRegular;
+	font-size: 12px;
+	color: #a7a7a7;
+}
+
+.about-us-date {
+	background-color: #f5f5f5;
+	width: 204px;
+	height: 70px;
+	padding: 5px 4px 5px 12px;
+	margin: 0 auto;
+}
+.about-us-date h4 {
+	text-align: left;
+	color: #9f9f9f;
+	font-size: 14px;
+	line-height: 7px;
+}
+.about-us-info a {
+	text-decoration: none;
+}
+.tabActive {
+    background-color: #3fa9f5 ;
+}
+.tabDeactive {
+    background-color: #bcbcbc ;
+}
+.tab-item {
+    font-family: LatoBold;
+    font-size: 16px;
+    max-width: none;
+}
+.trackImgIcon {
+	height: 30px;
+}
+
+.sideMenuRight .itemDBI {
+	color: #2980B9;
+}
+.sideMenuRight .itemDEV {
+	color: #E67E22;
+}
+.sideMenuRight .itemOFC {
+	color: #F1C40F;
+}
+.sideMenuRight .itemWPD {
+	color: #8E44AD;
+}
+.sideMenuRight .itemDIM {
+	color: #27AE60;
+}
+.sideMenuRight .itemDYN {
+	color: #34495E;
+}
+
+.trackDBI {
+	color: #2980B9;
+}
+.trackDEV {
+	color: #E67E22;
+}
+.trackOFC {
+	color: #F1C40F;
+}
+.trackWPD {
+	color: #8E44AD;
+}
+.trackDIM {
+	color: #27AE60;
+}
+.trackDYN {
+	color: #34495E;
+}
+.trackAll {
+	font-family: LatoRegular;
+	color: #808080;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 22px;
+	padding-top: 10px;
+}
+
+/* Partners */
+.partnersLogo {
+	text-align: center;
+}
+.partnersLogo img {
+	max-width: 90%;
+	border: 1px solid #cfcfcf;
+}
+.generalniSponzor {
+	color: #e81123;
+}
+.zlatniSponzor {
+	color: #68217a;
+}
+.partneri {
+	color: #10b6f0;
+}
+.sponzor {
+	color: #7eba41;
+}
+.tehnickiPartneri {
+	color: #4869c5;
+}
+.sponzorAplikacije {
+	color: #505050;
+}
+.prijateljiKonferencije {
+	color: #fcd116;
+}
+.medijskiPartneri {
+	color: #ff8c00;
+}
+
+/* FONTS */
+@font-face {
+    font-family: LatoBold;
+    src: url(../fonts/Lato-Bold.ttf);
+}
+
+@font-face {
+    font-family: LatoRegular;
+    src: url(../fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: LatoLight;
+    src: url(../fonts/Lato-Light.ttf);
+}

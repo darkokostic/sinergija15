@@ -1,0 +1,422 @@
+{ "results": [
+	{
+        "createdAt": "2015-10-14T09:40:05.687Z",
+        "objectId": "0TZQ1vaxHo",
+				"vrsta": "tehnicki partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-c0203635-3e4e-4c83-be98-4859392d0ad8-pin.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-c0203635-3e4e-4c83-be98-4859392d0ad8-pin.jpg"
+        },
+        "partnerName": "pin",
+        "updatedAt": "2015-10-14T09:40:11.951Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:35:16.724Z",
+        "objectId": "1b6ke9ZkdB",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-aaf50641-9985-4465-8a3e-00626064578a-racunajte-na-racunare.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-aaf50641-9985-4465-8a3e-00626064578a-racunajte-na-racunare.jpg"
+        },
+        "partnerName": "rnr",
+        "updatedAt": "2015-10-14T09:35:25.409Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:34:45.544Z",
+        "objectId": "2zEJkuUNmz",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-3b5a4978-0920-45a6-8136-afbb8c50f2ab-tanjug.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-3b5a4978-0920-45a6-8136-afbb8c50f2ab-tanjug.jpg"
+        },
+        "partnerName": "tanjug",
+        "updatedAt": "2015-10-14T09:34:50.442Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:41:38.927Z",
+        "objectId": "3Ffhm1IW0F",
+				"vrsta": "partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-78cc1acc-7ddb-407c-bb5f-de25d02f8029-bisnode.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-78cc1acc-7ddb-407c-bb5f-de25d02f8029-bisnode.jpg"
+        },
+        "partnerName": "bisnode",
+        "updatedAt": "2015-10-14T09:41:45.597Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:37:32.778Z",
+        "objectId": "6dC8nWXjGJ",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-25394bc1-1411-46d1-8795-0b7fd4117624-digital.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-25394bc1-1411-46d1-8795-0b7fd4117624-digital.jpg"
+        },
+        "partnerName": "digital",
+        "updatedAt": "2015-10-14T09:37:39.805Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:39:07.017Z",
+        "objectId": "6o1Q7tNBlU",
+				"vrsta": "prijatelji konferencije",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-89b6d7bf-66df-4326-872d-429245ea0ee9-acer.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-89b6d7bf-66df-4326-872d-429245ea0ee9-acer.jpg"
+        },
+        "partnerName": "acer",
+        "updatedAt": "2015-10-14T09:39:11.829Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:34:23.367Z",
+        "objectId": "70p40FfjFI",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-dd0cbafd-552f-496f-9f3f-2a284cfa9fc3-tech-lifestyle.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-dd0cbafd-552f-496f-9f3f-2a284cfa9fc3-tech-lifestyle.jpg"
+        },
+        "partnerName": "tech lifestyle",
+        "updatedAt": "2015-10-14T09:34:36.103Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:37:50.072Z",
+        "objectId": "A3HGuPHP3C",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-0072470e-c4f7-47b4-96da-53befed5b75a-benchmark.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-0072470e-c4f7-47b4-96da-53befed5b75a-benchmark.jpg"
+        },
+        "partnerName": "benchmark",
+        "updatedAt": "2015-10-14T09:38:07.103Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:38:27.586Z",
+        "objectId": "AL8qXIJksN",
+				"vrsta": "prijatelji konferencije",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-109900f6-af75-4cc6-a577-c25e1fe54e0e-intel.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-109900f6-af75-4cc6-a577-c25e1fe54e0e-intel.jpg"
+        },
+        "partnerName": "intel",
+        "updatedAt": "2015-10-14T09:38:33.535Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:42:04.389Z",
+        "objectId": "CRNthQbChI",
+				"vrsta": "partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-85eb7f9c-a997-4eca-a770-311c4bc14aa6-ibis.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-85eb7f9c-a997-4eca-a770-311c4bc14aa6-ibis.jpg"
+        },
+        "partnerName": "ibis",
+        "updatedAt": "2015-10-14T09:42:10.107Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:35:02.407Z",
+        "objectId": "DZycT2hFC3",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-0099169a-8095-414b-b6e4-e59941c84b6f-svet-kompjutera.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-0099169a-8095-414b-b6e4-e59941c84b6f-svet-kompjutera.jpg"
+        },
+        "partnerName": "svet kompjutera",
+        "updatedAt": "2015-10-14T09:35:06.790Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:36:20.649Z",
+        "objectId": "ENMRK7wOEZ",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-9cfec1e3-a395-4607-9512-cb91c6f08385-kongresni-turizam.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-9cfec1e3-a395-4607-9512-cb91c6f08385-kongresni-turizam.jpg"
+        },
+        "partnerName": "kongresni turizam",
+        "updatedAt": "2015-10-14T09:36:30.672Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:33:36.330Z",
+        "objectId": "FMli3jEOxM",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-cfd7b1ee-cad6-419f-a540-57dc0ea297a2-tag.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-cfd7b1ee-cad6-419f-a540-57dc0ea297a2-tag.jpg"
+        },
+        "partnerName": "tag media",
+        "updatedAt": "2015-10-14T09:33:49.677Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:39:51.939Z",
+        "objectId": "IIKqAUD0mj",
+				"vrsta": "tehnicki partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-e32f162d-d7c1-4593-aace-0a217697d14e-eunet.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-e32f162d-d7c1-4593-aace-0a217697d14e-eunet.jpg"
+        },
+        "partnerName": "eunet",
+        "updatedAt": "2015-10-14T09:39:56.596Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:40:57.694Z",
+        "objectId": "IN4E6Wiwmy",
+				"vrsta": "partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-d9e928d8-9208-4dd5-b894-b2f646a36e64-esmart.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-d9e928d8-9208-4dd5-b894-b2f646a36e64-esmart.jpg"
+        },
+        "partnerName": "esmart",
+        "updatedAt": "2015-10-14T09:41:09.218Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:40:41.963Z",
+        "objectId": "IvN9C6vRFp",
+				"vrsta": "sponzor",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-006fecff-c908-4f97-9c5d-7a19720fcacd-softnet.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-006fecff-c908-4f97-9c5d-7a19720fcacd-softnet.jpg"
+        },
+        "partnerName": "softnet",
+        "updatedAt": "2015-10-14T09:40:49.600Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:40:18.078Z",
+        "objectId": "MvammW660g",
+				"vrsta": "tehnicki partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-51e9fa5c-a90d-4d00-9fa6-9d89c929e2f0-nes.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-51e9fa5c-a90d-4d00-9fa6-9d89c929e2f0-nes.jpg"
+        },
+        "partnerName": "nes",
+        "updatedAt": "2015-10-14T09:40:23.324Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:39:31.112Z",
+        "objectId": "O6wf2NZnt6",
+				"vrsta": "tehnicki partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-8a3cf6c7-e9b6-4a65-8242-1537e2a2ae80-sampro.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-8a3cf6c7-e9b6-4a65-8242-1537e2a2ae80-sampro.jpg"
+        },
+        "partnerName": "sampro",
+        "updatedAt": "2015-10-14T09:39:43.702Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:35:38.062Z",
+        "objectId": "OjE8pJkBOZ",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-320e44e4-6b36-4113-8293-281fe552f2b1-pcpress.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-320e44e4-6b36-4113-8293-281fe552f2b1-pcpress.jpg"
+        },
+        "partnerName": "pc press",
+        "updatedAt": "2015-10-14T09:35:45.392Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:37:01.702Z",
+        "objectId": "PJEwNxiXbe",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-87461a0a-fd48-4403-97ec-bd0ef3936dad-halo-oglasi.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-87461a0a-fd48-4403-97ec-bd0ef3936dad-halo-oglasi.jpg"
+        },
+        "partnerName": "halo oglasi",
+        "updatedAt": "2015-10-14T09:37:08.261Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:38:14.530Z",
+        "objectId": "SBSo3cNBty",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-3ab6c39a-0c70-4e3d-84c1-20892aec3b72-b92.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-3ab6c39a-0c70-4e3d-84c1-20892aec3b72-b92.jpg"
+        },
+        "partnerName": "b92",
+        "updatedAt": "2015-10-14T09:38:19.804Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:39:20.014Z",
+        "objectId": "UL3qRL6Euj",
+				"vrsta": "tehnicki partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-c5894313-8611-44f2-afba-4e0dc87b6ff3-itbiz.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-c5894313-8611-44f2-afba-4e0dc87b6ff3-itbiz.jpg"
+        },
+        "partnerName": "it biz",
+        "updatedAt": "2015-10-14T09:39:24.698Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:34:04.849Z",
+        "objectId": "YBd4YZBl3D",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-2be76b71-44cf-44d0-878a-67dfa007e410-tvitnime.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-2be76b71-44cf-44d0-878a-67dfa007e410-tvitnime.jpg"
+        },
+        "partnerName": "tvitni.me",
+        "updatedAt": "2015-10-14T09:34:09.844Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:38:54.641Z",
+        "objectId": "YCsntqegRk",
+				"vrsta": "prijatelji konferencije",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-479a1fc4-4d2d-440a-8926-38e24208bca2-asus.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-479a1fc4-4d2d-440a-8926-38e24208bca2-asus.jpg"
+        },
+        "partnerName": "asus",
+        "updatedAt": "2015-10-14T09:38:59.456Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:35:54.101Z",
+        "objectId": "Yxw5zUgv5w",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-9753c49a-0f28-4eb4-b72d-059e762e1957-mondo.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-9753c49a-0f28-4eb4-b72d-059e762e1957-mondo.jpg"
+        },
+        "partnerName": "mondo",
+        "updatedAt": "2015-10-14T09:35:57.750Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:37:15.874Z",
+        "objectId": "ZuMXIZn5lL",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-79c3256d-bff0-44a2-83d2-31513038cf3a-ekapija.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-79c3256d-bff0-44a2-83d2-31513038cf3a-ekapija.jpg"
+        },
+        "partnerName": "ekapija",
+        "updatedAt": "2015-10-14T09:37:21.631Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:42:57.788Z",
+        "objectId": "bM8t3lgKb8",
+				"vrsta": "generalni sponzor",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-2ed91072-3670-49be-83f3-44364943bfe0-comtrade.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-2ed91072-3670-49be-83f3-44364943bfe0-comtrade.jpg"
+        },
+        "partnerName": "comtrade",
+        "updatedAt": "2015-10-14T09:43:02.522Z"
+    },
+	{
+        "createdAt": "2015-10-14T15:45:55.158Z",
+        "objectId": "f9CQga1k2M",
+				"vrsta": "sponzor zvanicne sinergija 15 mobilne aplikacije",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-04c6d3e5-c6fc-4938-9e3d-1abb4db8e2ea-newar.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-04c6d3e5-c6fc-4938-9e3d-1abb4db8e2ea-newar.jpg"
+        },
+        "partnerName": "new.rs",
+        "updatedAt": "2015-10-14T15:46:01.992Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:40:30.436Z",
+        "objectId": "h38nkmIVi3",
+				"vrsta": "tehnicki partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-8c3aa302-db04-432a-b40c-fe8843541ac5-orion.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-8c3aa302-db04-432a-b40c-fe8843541ac5-orion.jpg"
+        },
+        "partnerName": "orion",
+        "updatedAt": "2015-10-14T09:40:34.895Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:38:42.693Z",
+        "objectId": "h4877TM7l8",
+				"vrsta": "prijatelji konferencije",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-23b5cd56-99d4-4714-9fa0-935cdfb1fe8f-gigatron.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-23b5cd56-99d4-4714-9fa0-935cdfb1fe8f-gigatron.jpg"
+        },
+        "partnerName": "gigatron",
+        "updatedAt": "2015-10-14T09:38:47.773Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:41:17.283Z",
+        "objectId": "kEUUKtgvo4",
+				"vrsta": "partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-705ecf38-f99d-4f34-92fa-b74f1ec37c55-mera.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-705ecf38-f99d-4f34-92fa-b74f1ec37c55-mera.jpg"
+        },
+        "partnerName": "mera",
+        "updatedAt": "2015-10-14T09:41:23.654Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:42:35.450Z",
+        "objectId": "kqMbMVEgJc",
+				"vrsta": "zlatni sponzor",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-25dffd8c-0985-4c2d-bf5b-b10232175d94-del-informatika.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-25dffd8c-0985-4c2d-bf5b-b10232175d94-del-informatika.jpg"
+        },
+        "partnerName": "dell",
+        "updatedAt": "2015-10-14T09:42:50.195Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:42:16.782Z",
+        "objectId": "nDeRhZJ0gd",
+				"vrsta": "partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-aed2171a-6e47-4bcd-a416-97c9469745a1-veeam.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-aed2171a-6e47-4bcd-a416-97c9469745a1-veeam.jpg"
+        },
+        "partnerName": "veeam",
+        "updatedAt": "2015-10-14T09:42:32.025Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:41:53.475Z",
+        "objectId": "ncAeO7c600",
+				"vrsta": "partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-53cb2f14-47e6-4d3f-b9fc-0fcb3fcabf83-extreme.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-53cb2f14-47e6-4d3f-b9fc-0fcb3fcabf83-extreme.jpg"
+        },
+        "partnerName": "extreme",
+        "updatedAt": "2015-10-14T09:41:57.403Z"
+    },
+	{
+        "createdAt": "2015-10-14T09:36:06.591Z",
+        "objectId": "q416m69Dtr",
+				"vrsta": "medijski partneri",
+        "partnerLogo": {
+            "__type": "File",
+            "name": "tfss-95677550-81d6-4425-8c31-1c46e92b0d0c-see.jpg",
+            "url": "http://files.parsetfss.com/58067f5c-6ccb-460e-b47f-55faf107d721/tfss-95677550-81d6-4425-8c31-1c46e92b0d0c-see.jpg"
+        },
+        "partnerName": "see",
+        "updatedAt": "2015-10-14T09:36:24.413Z"
+    }
+] }

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="bower_components/ionic/release/css/ionic.css">
+    <!-- endbower -->
+    <!-- endbuild -->
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="styles/twitter.css" rel="stylesheet">
+    <link href="lib/ionic-filter-bar/dist/ionic.filter.bar.min.css" rel="stylesheet">
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="styles/ionic.app.css" rel="stylesheet">
+    -->
+    <!-- ionic/angularjs js -->
+    <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/ionic/release/js/ionic.js"></script>
+    <script src="bower_components/ionic/release/js/ionic-angular.js"></script>
+    <script src="bower_components/ngCordova/dist/ng-cordova.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="lib/ionic-filter-bar/dist/ionic.filter.bar.min.js"></script>
+
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+    <!-- your app's js -->
+    <!-- build:js scripts/scripts.js -->
+    <script src="scripts/ngStorage.min.js"></script>
+    <script src="scripts/app.js"></script>
+    <script src="scripts/services.js"></script>
+    <script src="scripts/controllers.js"></script>
+    <script src="scripts/configuration.js"></script>
+    <!-- endbuild -->
+      <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?&amp;sensor=false"></script>
+  </head>
+  <body ng-app="starter" ng-controller="MainPageController">
+     <ion-side-menus ng-controller="SideBarController">
+        <ion-side-menu-content>
+          <ion-nav-bar class="bar-assertive nav-title-slide-ios7" align-title="center">
+            <ion-nav-title>
+                <img class="title-image" style="margin-top:7px; width: 130px;" src="img/logoMenu.png">
+            </ion-nav-title>
+            <ion-nav-back-button class="button button-clear button-dark icon ion-ios-arrow-left button-dark" ng-click="myGoBack()"></ion-nav-back-button>
+            <ion-nav-buttons side="left">
+            <button id="leftBtn" class="button button-clear button-dark icon ion-navicon-round" menu-toggle="left" ng-click="toggleLeft()"></button>
+            </ion-nav-buttons>
+            <ion-nav-buttons side="right">
+              <button class="button button-clear button-dark icon ion-ios-search-strong" ng-class="onLecturers ? &apos;showSearch&apos; : &apos;hideSearch&apos;" ng-click="showFilterBar()"></button>
+              <img src="img/funnel13.png" style="{{isVisible}}" class="funnelBtn" ng-class="onDay ? &apos;showSearch&apos; : &apos;hideSearch&apos;" ng-click="toggleRight()">
+            </ion-nav-buttons>
+          </ion-nav-bar>
+          <ion-nav-view>
+          </ion-nav-view>
+        </ion-side-menu-content>
+        <ion-side-menu class="sideMenu" side="left" enable-menu-with-back-views="false">
+          <ion-list>
+            <img src="img/logoMenu.png">
+            <a href="#/about-us" class="item">O Sinergiji</a>
+            <a href="#/partners" class="item">Partneri</a>
+            <a href="#/lecturers" class="item">Predava&#x10D;i</a>
+            <a href="#/social-corner" class="item">Social Corner</a>
+            <a href="#/favorites" class="item">Omiljeno</a>
+            <p>Sva prava na sadr&#x17E;aj ove aplikacije zadr&#x17E;ava kompanija mojkatalog d.o.o</p>
+          </ion-list>
+        </ion-side-menu>
+        <ion-side-menu class="sideMenuRight" side="right" enable-menu-with-back-views="false">
+          <ion-list>
+            <br>
+            <a href="#lectures-list/allLectures" class="item">Sva predavanja</a>
+            <a href="#lectures-list/DBI" class="item itemDBI"><img class="trackImgIcon" src="img/track-images/DBI.png"> <span>DBI</span></a>
+            <a href="#lectures-list/DEV" class="item itemDEV"><img class="trackImgIcon" src="img/track-images/DEV.png"> <span>DEV</span></a>
+            <a href="#lectures-list/OFC" class="item itemOFC"><img class="trackImgIcon" src="img/track-images/OFC.png"></a>
+            <a href="#lectures-list/WPD" class="item itemWPD"><img class="trackImgIcon" src="img/track-images/WPD.png"> <span>WPD</span></a>
+            <a href="#lectures-list/DIM" class="item itemDIM"><img class="trackImgIcon" src="img/track-images/DIM.png"> <span>DIM</span></a>
+            <a href="#lectures-list/DYN" class="item itemDYN"><img class="trackImgIcon" src="img/track-images/DYN.png"> <span>DYN</span></a>
+          </ion-list>
+        </ion-side-menu>
+      </ion-side-menus>
+  </body>
+</html>
